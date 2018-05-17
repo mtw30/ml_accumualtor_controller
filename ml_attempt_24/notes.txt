@@ -1,0 +1,5 @@
+Going to work from 22, which didnt really seem to have any difference over 20. Now going to add an intergral error value that is centered on the aim temperature so you get minus intergral values for being below the aim temperature.
+
+Then going to work out how I can turn the intergral value into a reward value
+
+Doubled the cell count multiplier as well too

@@ -1,0 +1,3 @@
+Working from 19! Not 20!
+
+19 Seemed to vaugely work, just at too high of a temperature. This run is having its' epochs increased to 5000 as the run looked like it having its' reward increase at the end. Not 100% sure on this though

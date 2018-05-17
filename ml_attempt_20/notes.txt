@@ -1,0 +1,3 @@
+Working from 19, which seemed to vaugely work... GOing to try and increase the bell curve multiplier, and then fix the normlaisation to see if it will tend towards a lower temperature
+
+Fiddled with the reward functions quite a lot
