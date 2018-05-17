@@ -1,0 +1,4 @@
+My first attempt
+
+Seem to have prioritised the battery drain over the temperature so the battery temperature has just been going up and up
+And the battery drain tended towards 0.01$

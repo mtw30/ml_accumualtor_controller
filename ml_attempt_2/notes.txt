@@ -1,0 +1,1 @@
+Second attempt, going to double the reward for going in the correct direction, and chaging the gaussian multipluier to 5
