@@ -1,0 +1,3 @@
+Same as 10, but now using binary loss function as all the other ones are just the same every time :(
+
+This seemed to have got something working for the first time! However, it converges on a lower temeprature than we would want

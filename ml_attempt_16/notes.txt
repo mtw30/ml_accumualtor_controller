@@ -1,0 +1,3 @@
+Using categorical_crossentropy as the compiler loss factor
+
+Exact same as 14, but going to run for only 250 epochs

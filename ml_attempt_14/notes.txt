@@ -1,0 +1,1 @@
+Using categorical_crossentropy as the compiler loss factor

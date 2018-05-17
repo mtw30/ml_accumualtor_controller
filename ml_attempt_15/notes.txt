@@ -1,0 +1,1 @@
+using categorical_crossentropy as the loss factor, same as 14, but now using Adadelta as the optimizer

@@ -1,0 +1,13 @@
+Talked to BEn today and got some infomation
+-Sounds like I am doing most things correct, just got to keep pushing with it
+-Binary classification is what I was because either it belongs to one catagory, or it does not
+-Try smooth out the time steps to maybe 0.5 seconds. THis is what real hardware would do (battery would have therman inertia)
+-Try to have some pre processing of derivatives and intergrals of battery temprature
+-Talk about how some networks could be used that do this be default?
+
+The new thing I am doing here is using a smoothed out training session to train the data!
+
+The data didnt seem to line up perfectly even when I checked it - so a big thing I have done is to remove dt from the q=mcAt
+****************** Run 18**************
+
+Basically the same as run 17 but using a different optimiser as seen on stack overfow

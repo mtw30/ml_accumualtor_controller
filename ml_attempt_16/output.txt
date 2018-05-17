@@ -1,0 +1,1540 @@
+Processing file : /Users/Matt/google_drive/documents/uni/year_3/EE30147_40148_GDBP_MEng/individual/scripts/traindata_driving_log_7.csv
+Fri, 11 May 2018 08:46:33
+---------------------------------------------
+Completed game 1/250
+End temperature : 304.7987143428079
+End training loss : -246322.6250710413
+End reward : 265.80670823007466
+End capacity : 99.78
+---------------------------------------------
+Completed game 2/250
+End temperature : 304.7749640575955
+End training loss : -558619.7137559503
+End reward : 281.9269809231812
+End capacity : 99.78
+---------------------------------------------
+Completed game 3/250
+End temperature : 307.00433217681194
+End training loss : -1175267.7770438492
+End reward : -63.60893311491473
+End capacity : 99.84
+---------------------------------------------
+Completed game 4/250
+End temperature : 307.00443646525144
+End training loss : -1978973.1580442786
+End reward : -107.4586757573873
+End capacity : 99.84
+---------------------------------------------
+Completed game 5/250
+End temperature : 304.71208876252757
+End training loss : -3887057.620017126
+End reward : 104.34452247549613
+End capacity : 99.78
+---------------------------------------------
+Completed game 6/250
+End temperature : 304.8668369170283
+End training loss : -6239336.4706968665
+End reward : 85.82009919171949
+End capacity : 99.78
+---------------------------------------------
+Completed game 7/250
+End temperature : 304.7822940279157
+End training loss : -4815919.997877061
+End reward : 194.70212713783962
+End capacity : 99.78
+---------------------------------------------
+Completed game 8/250
+End temperature : 307.002802764267
+End training loss : -2732860.942771226
+End reward : -131.8853814077718
+End capacity : 99.84
+---------------------------------------------
+Completed game 9/250
+End temperature : 307.12225487235384
+End training loss : -3640003.065764308
+End reward : -168.27146431898137
+End capacity : 99.85
+---------------------------------------------
+Completed game 10/250
+End temperature : 307.0044602352123
+End training loss : -4366396.373348713
+End reward : -111.0215972737327
+End capacity : 99.84
+---------------------------------------------
+Completed game 11/250
+End temperature : 305.16902369252585
+End training loss : -7021773.051623404
+End reward : 9.344875984658984
+End capacity : 99.78
+---------------------------------------------
+Completed game 12/250
+End temperature : 305.15022655890965
+End training loss : -10018724.958518863
+End reward : -34.4884589933282
+End capacity : 99.78
+---------------------------------------------
+Completed game 13/250
+End temperature : 307.0047595622586
+End training loss : -9265486.720994234
+End reward : 47.07720844746199
+End capacity : 99.84
+---------------------------------------------
+Completed game 14/250
+End temperature : 307.0128754422885
+End training loss : -9106007.171959162
+End reward : 33.7400382926214
+End capacity : 99.84
+---------------------------------------------
+Completed game 15/250
+End temperature : 307.00700311407047
+End training loss : -12047185.07307005
+End reward : -30.3190624082835
+End capacity : 99.84
+---------------------------------------------
+Completed game 16/250
+End temperature : 307.00793125252176
+End training loss : -14975615.640103579
+End reward : -116.25025259625254
+End capacity : 99.84
+---------------------------------------------
+Completed game 17/250
+End temperature : 307.01726285977077
+End training loss : -17605793.700636387
+End reward : -5.281267848842077
+End capacity : 99.84
+---------------------------------------------
+Completed game 18/250
+End temperature : 305.17564613847384
+End training loss : -28193693.828164577
+End reward : 81.65359279003535
+End capacity : 99.78
+---------------------------------------------
+Completed game 19/250
+End temperature : 304.9686960888126
+End training loss : -32363907.71268606
+End reward : 312.2117619770052
+End capacity : 99.78
+---------------------------------------------
+Completed game 20/250
+End temperature : 307.0104502969221
+End training loss : -31315993.130378008
+End reward : -180.26199487674833
+End capacity : 99.84
+---------------------------------------------
+Completed game 21/250
+End temperature : 307.0239337151626
+End training loss : -35285719.150408745
+End reward : -93.65376857334388
+End capacity : 99.84
+---------------------------------------------
+Completed game 22/250
+End temperature : 305.13858814467477
+End training loss : -54512872.093146324
+End reward : 54.73249678696421
+End capacity : 99.78
+---------------------------------------------
+Completed game 23/250
+End temperature : 305.0113437003646
+End training loss : -62232293.6923542
+End reward : 134.08807383539732
+End capacity : 99.78
+---------------------------------------------
+Completed game 24/250
+End temperature : 307.0115869592345
+End training loss : -41810458.60703087
+End reward : -50.44794824825012
+End capacity : 99.84
+---------------------------------------------
+10.0% completed...
+Fri, 11 May 2018 09:01:06
+---------------------------------------------
+Completed game 25/250
+End temperature : 307.0043371156609
+End training loss : -38173030.82466602
+End reward : -258.88784012897145
+End capacity : 99.84
+---------------------------------------------
+Completed game 26/250
+End temperature : 307.0028375696484
+End training loss : 48262945.33477783
+End reward : -179.03155828581984
+End capacity : 99.89
+---------------------------------------------
+Completed game 27/250
+End temperature : 307.00367426921696
+End training loss : -733981.3504943848
+End reward : -77.06614706413072
+End capacity : 99.88
+---------------------------------------------
+Completed game 28/250
+End temperature : 307.0098371351314
+End training loss : -31547700.930732727
+End reward : 46.04128711140042
+End capacity : 99.84
+---------------------------------------------
+Completed game 29/250
+End temperature : 307.01395539493404
+End training loss : -31530716.430784225
+End reward : -148.9197467088206
+End capacity : 99.84
+---------------------------------------------
+Completed game 30/250
+End temperature : 304.2072927769625
+End training loss : 88512801.19634366
+End reward : 8.19614718660167
+End capacity : 99.77
+---------------------------------------------
+Completed game 31/250
+End temperature : 307.1300360276357
+End training loss : -4800336.297171593
+End reward : -39.598605510536075
+End capacity : 99.85
+---------------------------------------------
+Completed game 32/250
+End temperature : 304.90962836402315
+End training loss : 12391471.356134892
+End reward : 220.81946615012697
+End capacity : 99.78
+---------------------------------------------
+Completed game 33/250
+End temperature : 304.8962813881278
+End training loss : -36232843.185391426
+End reward : 372.8654832063561
+End capacity : 99.78
+---------------------------------------------
+Completed game 34/250
+End temperature : 305.182287221787
+End training loss : -51097558.74335638
+End reward : 59.18725540801244
+End capacity : 99.78
+---------------------------------------------
+Completed game 35/250
+End temperature : 303.9342337179877
+End training loss : 159270728.75753546
+End reward : 131.72577788061218
+End capacity : 99.76
+---------------------------------------------
+Completed game 36/250
+End temperature : 301.3902351508682
+End training loss : 1550319814.8579102
+End reward : -943.5447975655526
+End capacity : 99.74
+---------------------------------------------
+Completed game 37/250
+End temperature : 301.27527980331496
+End training loss : 1567771340.3796387
+End reward : -1154.9570282589016
+End capacity : 99.74
+---------------------------------------------
+Completed game 38/250
+End temperature : 300.6968627782821
+End training loss : 1697047967.991211
+End reward : -1654.227058706411
+End capacity : 99.73
+---------------------------------------------
+Completed game 39/250
+End temperature : 300.8475086842044
+End training loss : 1712218717.5067139
+End reward : -1629.2571429963423
+End capacity : 99.73
+---------------------------------------------
+Completed game 40/250
+End temperature : 300.8286278849708
+End training loss : 1690691584.222046
+End reward : -1604.6925124566437
+End capacity : 99.73
+---------------------------------------------
+Completed game 41/250
+End temperature : 300.76200050990855
+End training loss : 1912689517.8859863
+End reward : -1703.6271359299653
+End capacity : 99.73
+---------------------------------------------
+Completed game 42/250
+End temperature : 300.83896127549997
+End training loss : 2134796794.3417969
+End reward : -1621.5635301363561
+End capacity : 99.73
+---------------------------------------------
+Completed game 43/250
+End temperature : 301.0046012741391
+End training loss : 2134467880.8554688
+End reward : -1199.773589631026
+End capacity : 99.73
+---------------------------------------------
+Completed game 44/250
+End temperature : 300.151310464721
+End training loss : 2135300619.3720703
+End reward : -3522.883632204734
+End capacity : 99.72
+---------------------------------------------
+Completed game 45/250
+End temperature : 300.33029323743136
+End training loss : 2135274947.0742188
+End reward : -2884.998418655713
+End capacity : 99.72
+---------------------------------------------
+Completed game 46/250
+End temperature : 300.1024501623815
+End training loss : 2137295665.491211
+End reward : -2748.869671992027
+End capacity : 99.72
+---------------------------------------------
+Completed game 47/250
+End temperature : 300.1558026065611
+End training loss : 2136015875.2490234
+End reward : -2657.2432101668082
+End capacity : 99.72
+---------------------------------------------
+Completed game 48/250
+End temperature : 300.0033285266409
+End training loss : 2136890920.2910156
+End reward : -2918.0087776461346
+End capacity : 99.72
+---------------------------------------------
+Completed game 49/250
+End temperature : 299.9705694277002
+End training loss : 2133634190.1679688
+End reward : -3455.1132608698
+End capacity : 99.72
+---------------------------------------------
+20.0% completed...
+Fri, 11 May 2018 09:16:32
+---------------------------------------------
+Completed game 50/250
+End temperature : 299.8674030697137
+End training loss : 2136732741.5126953
+End reward : -3714.2129841503565
+End capacity : 99.72
+---------------------------------------------
+Completed game 51/250
+End temperature : 299.38180194993623
+End training loss : 2139594427.5385742
+End reward : -3913.7634478089994
+End capacity : 99.71
+---------------------------------------------
+Completed game 52/250
+End temperature : 299.14518346499324
+End training loss : 2138919080.612793
+End reward : -4267.664024029338
+End capacity : 99.71
+---------------------------------------------
+Completed game 53/250
+End temperature : 298.99602347424826
+End training loss : 2138618176.538086
+End reward : -4297.337783323704
+End capacity : 99.71
+---------------------------------------------
+Completed game 54/250
+End temperature : 299.35610447890105
+End training loss : 2137436005.2441406
+End reward : -4268.029039262941
+End capacity : 99.71
+---------------------------------------------
+Completed game 55/250
+End temperature : 299.4626069338062
+End training loss : 2136724564.0761719
+End reward : -4126.53264614633
+End capacity : 99.71
+---------------------------------------------
+Completed game 56/250
+End temperature : 298.777758509407
+End training loss : 2139349462.9902344
+End reward : -4427.696919076447
+End capacity : 99.70
+---------------------------------------------
+Completed game 57/250
+End temperature : 298.34039466124386
+End training loss : 2142712042.9375
+End reward : -4530.709762499246
+End capacity : 99.70
+---------------------------------------------
+Completed game 58/250
+End temperature : 299.0416635303761
+End training loss : 2139200443.2402344
+End reward : -4162.562232845632
+End capacity : 99.71
+---------------------------------------------
+Completed game 59/250
+End temperature : 298.52494360360186
+End training loss : 2141183677.9169922
+End reward : -4487.815523034074
+End capacity : 99.70
+---------------------------------------------
+Completed game 60/250
+End temperature : 298.62342837401684
+End training loss : 2138404403.6757812
+End reward : -4507.864025402776
+End capacity : 99.70
+---------------------------------------------
+Completed game 61/250
+End temperature : 298.4309540105916
+End training loss : 2138217940.8964844
+End reward : -4523.1579502803825
+End capacity : 99.70
+---------------------------------------------
+Completed game 62/250
+End temperature : 297.98292703404127
+End training loss : 2142449501.3808594
+End reward : -4571.104717467551
+End capacity : 99.69
+---------------------------------------------
+Completed game 63/250
+End temperature : 297.73606838156843
+End training loss : 2143627491.1894531
+End reward : -4592.4102738143665
+End capacity : 99.69
+---------------------------------------------
+Completed game 64/250
+End temperature : 297.321658697311
+End training loss : 2143558437.5722656
+End reward : -4642.945190075188
+End capacity : 99.68
+---------------------------------------------
+Completed game 65/250
+End temperature : 297.49972855105545
+End training loss : 2143301203.7617188
+End reward : -4611.665320650348
+End capacity : 99.69
+---------------------------------------------
+Completed game 66/250
+End temperature : 297.36560487521695
+End training loss : 2143746084.4277344
+End reward : -4628.073848275698
+End capacity : 99.69
+---------------------------------------------
+Completed game 67/250
+End temperature : 297.55497408323237
+End training loss : 2144082267.5673828
+End reward : -4611.08979305781
+End capacity : 99.69
+---------------------------------------------
+Completed game 68/250
+End temperature : 297.1056254934375
+End training loss : 2145862346.5839844
+End reward : -4659.682862726556
+End capacity : 99.68
+---------------------------------------------
+Completed game 69/250
+End temperature : 297.4538312344667
+End training loss : 2141094963.3984375
+End reward : -4621.596094700391
+End capacity : 99.69
+---------------------------------------------
+Completed game 70/250
+End temperature : 296.74598585429595
+End training loss : 2146672389.8486328
+End reward : -4685.641569564412
+End capacity : 99.68
+---------------------------------------------
+Completed game 71/250
+End temperature : 296.7097230930453
+End training loss : 2148034134.885742
+End reward : -4684.437641092304
+End capacity : 99.68
+---------------------------------------------
+Completed game 72/250
+End temperature : 296.3056817967249
+End training loss : 2147989829.689453
+End reward : -4720.581590745585
+End capacity : 99.67
+---------------------------------------------
+Completed game 73/250
+End temperature : 297.1439209450961
+End training loss : 2145254042.1201172
+End reward : -4648.269948188684
+End capacity : 99.68
+---------------------------------------------
+Completed game 74/250
+End temperature : 296.4836163521241
+End training loss : 2148012264.0146484
+End reward : -4696.1922784157005
+End capacity : 99.68
+---------------------------------------------
+30.0% completed...
+Fri, 11 May 2018 09:33:08
+---------------------------------------------
+Completed game 75/250
+End temperature : 296.1545544936007
+End training loss : 2149991860.5439453
+End reward : -4731.263903241872
+End capacity : 99.67
+---------------------------------------------
+Completed game 76/250
+End temperature : 296.12203278791395
+End training loss : 2149630593.6376953
+End reward : -4738.1368387195025
+End capacity : 99.67
+---------------------------------------------
+Completed game 77/250
+End temperature : 295.411713205326
+End training loss : 2153552297.7597656
+End reward : -4792.965488737726
+End capacity : 99.66
+---------------------------------------------
+Completed game 78/250
+End temperature : 296.03134605877324
+End training loss : 2148266408.654297
+End reward : -4738.815655416682
+End capacity : 99.67
+---------------------------------------------
+Completed game 79/250
+End temperature : 295.73510076676195
+End training loss : 2149627097.086914
+End reward : -4762.500995556991
+End capacity : 99.66
+---------------------------------------------
+Completed game 80/250
+End temperature : 295.68566417360296
+End training loss : 2150531828.638672
+End reward : -4772.555467510655
+End capacity : 99.66
+---------------------------------------------
+Completed game 81/250
+End temperature : 295.7891827713687
+End training loss : 2148983466.6171875
+End reward : -4760.285047995559
+End capacity : 99.66
+---------------------------------------------
+Completed game 82/250
+End temperature : 295.33068356982756
+End training loss : 2151936727.602539
+End reward : -4800.977476274101
+End capacity : 99.66
+---------------------------------------------
+Completed game 83/250
+End temperature : 294.942296027247
+End training loss : 2153654572.838867
+End reward : -4834.2495489380135
+End capacity : 99.65
+---------------------------------------------
+Completed game 84/250
+End temperature : 295.2265057409941
+End training loss : 2151755199.8125
+End reward : -4807.379573549981
+End capacity : 99.66
+---------------------------------------------
+Completed game 85/250
+End temperature : 294.52852280819235
+End training loss : 2156326374.4375
+End reward : -4868.886040312124
+End capacity : 99.65
+---------------------------------------------
+Completed game 86/250
+End temperature : 294.94072878716577
+End training loss : 2153420118.8476562
+End reward : -4828.085974263069
+End capacity : 99.66
+---------------------------------------------
+Completed game 87/250
+End temperature : 294.457589253246
+End training loss : 2156427932.9277344
+End reward : -4873.477846134694
+End capacity : 99.65
+---------------------------------------------
+Completed game 88/250
+End temperature : 294.4018677933821
+End training loss : 2157216403.640625
+End reward : -4887.119311877892
+End capacity : 99.65
+---------------------------------------------
+Completed game 89/250
+End temperature : 294.2520169572414
+End training loss : 2155279539.873047
+End reward : -4893.984119954582
+End capacity : 99.64
+---------------------------------------------
+Completed game 90/250
+End temperature : 294.4138635173006
+End training loss : 2156161752.138672
+End reward : -4885.359699472943
+End capacity : 99.64
+---------------------------------------------
+Completed game 91/250
+End temperature : 294.3373011690035
+End training loss : 2157405400.2978516
+End reward : -4897.107295960396
+End capacity : 99.64
+---------------------------------------------
+Completed game 92/250
+End temperature : 294.00420097660697
+End training loss : 2160225272.489746
+End reward : -4917.398311485845
+End capacity : 99.64
+---------------------------------------------
+Completed game 93/250
+End temperature : 293.8987454281528
+End training loss : 2159380556.6933594
+End reward : -4917.414711042417
+End capacity : 99.64
+---------------------------------------------
+Completed game 94/250
+End temperature : 293.84249399258346
+End training loss : 2161677507.0439453
+End reward : -4934.273917342504
+End capacity : 99.64
+---------------------------------------------
+Completed game 95/250
+End temperature : 293.76501777480263
+End training loss : 2159561605.1367188
+End reward : -4932.482977761649
+End capacity : 99.64
+---------------------------------------------
+Completed game 96/250
+End temperature : 293.37597142318145
+End training loss : 2162483051.580078
+End reward : -4973.718958647964
+End capacity : 99.63
+---------------------------------------------
+Completed game 97/250
+End temperature : 293.8609443421782
+End training loss : 2158372876.0302734
+End reward : -4930.993386890037
+End capacity : 99.64
+---------------------------------------------
+Completed game 98/250
+End temperature : 293.1717327968381
+End training loss : 2162626320.133789
+End reward : -4993.731213017115
+End capacity : 99.63
+---------------------------------------------
+Completed game 99/250
+End temperature : 293.44484503441487
+End training loss : 2159522994.3710938
+End reward : -4969.552939001619
+End capacity : 99.63
+---------------------------------------------
+40.0% completed...
+Fri, 11 May 2018 09:49:32
+---------------------------------------------
+Completed game 100/250
+End temperature : 293.0279825533712
+End training loss : 2164313635.0703125
+End reward : -5006.400276105023
+End capacity : 99.63
+---------------------------------------------
+Completed game 101/250
+End temperature : 293.1815990180469
+End training loss : 2162363450.8085938
+End reward : -4990.605839162694
+End capacity : 99.63
+---------------------------------------------
+Completed game 102/250
+End temperature : 293.1530917828875
+End training loss : 2162734450.350586
+End reward : -4996.243957133689
+End capacity : 99.63
+---------------------------------------------
+Completed game 103/250
+End temperature : 292.69656504409966
+End training loss : 2165280994.5996094
+End reward : -5034.74815038426
+End capacity : 99.62
+---------------------------------------------
+Completed game 104/250
+End temperature : 292.6280282542018
+End training loss : 2165204217.0507812
+End reward : -5044.376410113733
+End capacity : 99.62
+---------------------------------------------
+Completed game 105/250
+End temperature : 292.3664486350802
+End training loss : 2167312165.8046875
+End reward : -5066.785573595927
+End capacity : 99.62
+---------------------------------------------
+Completed game 106/250
+End temperature : 292.12225441482684
+End training loss : 2168192368.3164062
+End reward : -5084.218051750968
+End capacity : 99.61
+---------------------------------------------
+Completed game 107/250
+End temperature : 292.30261330937077
+End training loss : 2166411842.2753906
+End reward : -5067.71776238663
+End capacity : 99.62
+---------------------------------------------
+Completed game 108/250
+End temperature : 292.238392127114
+End training loss : 2167642870.6865234
+End reward : -5068.824031590509
+End capacity : 99.62
+---------------------------------------------
+Completed game 109/250
+End temperature : 292.043771342458
+End training loss : 2166840084.2578125
+End reward : -5092.880292082987
+End capacity : 99.61
+---------------------------------------------
+Completed game 110/250
+End temperature : 292.1568268425839
+End training loss : 2166642983.6289062
+End reward : -5083.06456679218
+End capacity : 99.61
+---------------------------------------------
+Completed game 111/250
+End temperature : 291.8890294182339
+End training loss : 2168663891.9941406
+End reward : -5109.023326512517
+End capacity : 99.61
+---------------------------------------------
+Completed game 112/250
+End temperature : 291.6736913160075
+End training loss : 2170231298.0371094
+End reward : -5125.56440308036
+End capacity : 99.61
+---------------------------------------------
+Completed game 113/250
+End temperature : 291.5854422993497
+End training loss : 2169910353.435547
+End reward : -5133.138312538836
+End capacity : 99.61
+---------------------------------------------
+Completed game 114/250
+End temperature : 291.5388636265604
+End training loss : 2171616305.1445312
+End reward : -5138.57936242355
+End capacity : 99.61
+---------------------------------------------
+Completed game 115/250
+End temperature : 291.71062276385106
+End training loss : 2170342795.6064453
+End reward : -5125.341767143795
+End capacity : 99.61
+---------------------------------------------
+Completed game 116/250
+End temperature : 291.2596047818153
+End training loss : 2171727426.7148438
+End reward : -5161.31986609292
+End capacity : 99.60
+---------------------------------------------
+Completed game 117/250
+End temperature : 291.33123662463527
+End training loss : 2171597983.4570312
+End reward : -5154.674862107461
+End capacity : 99.60
+---------------------------------------------
+Completed game 118/250
+End temperature : 291.2485661235711
+End training loss : 2171425580.3828125
+End reward : -5163.743961995074
+End capacity : 99.60
+---------------------------------------------
+Completed game 119/250
+End temperature : 291.3208964309705
+End training loss : 2170916059.9003906
+End reward : -5155.293783881488
+End capacity : 99.60
+---------------------------------------------
+Completed game 120/250
+End temperature : 291.38478701446115
+End training loss : 2170666998.3691406
+End reward : -5154.713729915387
+End capacity : 99.60
+---------------------------------------------
+Completed game 121/250
+End temperature : 291.21095011247803
+End training loss : 2171019699.5996094
+End reward : -5166.37169091138
+End capacity : 99.60
+---------------------------------------------
+Completed game 122/250
+End temperature : 291.028176294148
+End training loss : 2171799763.1523438
+End reward : -5183.7751865699265
+End capacity : 99.60
+---------------------------------------------
+Completed game 123/250
+End temperature : 290.7556015512672
+End training loss : 2173972302.7128906
+End reward : -5204.8926713846195
+End capacity : 99.60
+---------------------------------------------
+Completed game 124/250
+End temperature : 290.8800294847737
+End training loss : 2172451274.3339844
+End reward : -5196.971100774556
+End capacity : 99.60
+---------------------------------------------
+50.0% completed...
+Fri, 11 May 2018 10:05:10
+---------------------------------------------
+Completed game 125/250
+End temperature : 290.76599349139855
+End training loss : 2173697781.8320312
+End reward : -5209.883721774746
+End capacity : 99.59
+---------------------------------------------
+Completed game 126/250
+End temperature : 290.77315256389744
+End training loss : 2173107689.6640625
+End reward : -5205.1801020943185
+End capacity : 99.60
+---------------------------------------------
+Completed game 127/250
+End temperature : 290.76569998269946
+End training loss : 2173618966.583008
+End reward : -5207.7707092826395
+End capacity : 99.59
+---------------------------------------------
+Completed game 128/250
+End temperature : 290.55538203717424
+End training loss : 2176018976.0117188
+End reward : -5226.708622109357
+End capacity : 99.59
+---------------------------------------------
+Completed game 129/250
+End temperature : 290.6434036955991
+End training loss : 2174075881.8398438
+End reward : -5218.027924293898
+End capacity : 99.59
+---------------------------------------------
+Completed game 130/250
+End temperature : 290.64978012749
+End training loss : 2175178910.958008
+End reward : -5216.635394973082
+End capacity : 99.59
+---------------------------------------------
+Completed game 131/250
+End temperature : 290.48023749970514
+End training loss : 2173717940.286133
+End reward : -5237.082132454241
+End capacity : 99.59
+---------------------------------------------
+Completed game 132/250
+End temperature : 290.3325212693207
+End training loss : 2174428897.466797
+End reward : -5246.78849008029
+End capacity : 99.59
+---------------------------------------------
+Completed game 133/250
+End temperature : 290.27505632517693
+End training loss : 2174935546.1367188
+End reward : -5251.195364862737
+End capacity : 99.59
+---------------------------------------------
+Completed game 134/250
+End temperature : 290.3165263249776
+End training loss : 2174244993.1757812
+End reward : -5245.899731212702
+End capacity : 99.59
+---------------------------------------------
+Completed game 135/250
+End temperature : 290.340060208972
+End training loss : 2175110161.7783203
+End reward : -5243.026310929347
+End capacity : 99.59
+---------------------------------------------
+Completed game 136/250
+End temperature : 290.10637446148974
+End training loss : 2175149316.678711
+End reward : -5266.015631033648
+End capacity : 99.59
+---------------------------------------------
+Completed game 137/250
+End temperature : 290.02283184456485
+End training loss : 2175108708.3808594
+End reward : -5277.457575987026
+End capacity : 99.58
+---------------------------------------------
+Completed game 138/250
+End temperature : 290.00128000424337
+End training loss : 2174202382.196289
+End reward : -5280.732797098014
+End capacity : 99.58
+---------------------------------------------
+Completed game 139/250
+End temperature : 290.11223685240094
+End training loss : 2174529507.0371094
+End reward : -5263.06206079545
+End capacity : 99.58
+---------------------------------------------
+Completed game 140/250
+End temperature : 289.93425128510705
+End training loss : 2176419359.3789062
+End reward : -5285.71821341356
+End capacity : 99.58
+---------------------------------------------
+Completed game 141/250
+End temperature : 289.9503077838717
+End training loss : 2175255276.0234375
+End reward : -5284.575667232549
+End capacity : 99.58
+---------------------------------------------
+Completed game 142/250
+End temperature : 289.95314476934055
+End training loss : 2174719567.2753906
+End reward : -5283.671433832959
+End capacity : 99.58
+---------------------------------------------
+Completed game 143/250
+End temperature : 289.86861048871936
+End training loss : 2176268624.904297
+End reward : -5294.288053017695
+End capacity : 99.58
+---------------------------------------------
+Completed game 144/250
+End temperature : 289.8521261974811
+End training loss : 2175067714.8691406
+End reward : -5294.328374065968
+End capacity : 99.58
+---------------------------------------------
+Completed game 145/250
+End temperature : 289.79750880314555
+End training loss : 2176671742.9023438
+End reward : -5294.692013291044
+End capacity : 99.58
+---------------------------------------------
+Completed game 146/250
+End temperature : 289.8434789197564
+End training loss : 2175382655.276367
+End reward : -5288.228552181983
+End capacity : 99.58
+---------------------------------------------
+Completed game 147/250
+End temperature : 289.73827752079137
+End training loss : 2175830285.0683594
+End reward : -5301.388822356791
+End capacity : 99.58
+---------------------------------------------
+Completed game 148/250
+End temperature : 289.56833385418435
+End training loss : 2175832697.036133
+End reward : -5317.142752053333
+End capacity : 99.58
+---------------------------------------------
+Completed game 149/250
+End temperature : 289.652492250659
+End training loss : 2176696848.876953
+End reward : -5310.627638690701
+End capacity : 99.58
+---------------------------------------------
+60.0% completed...
+Fri, 11 May 2018 10:20:43
+---------------------------------------------
+Completed game 150/250
+End temperature : 289.6683586764398
+End training loss : 2174294557.508301
+End reward : -5309.881497352569
+End capacity : 99.58
+---------------------------------------------
+Completed game 151/250
+End temperature : 289.57591365507324
+End training loss : 2174602238.4765625
+End reward : -5315.704350507677
+End capacity : 99.58
+---------------------------------------------
+Completed game 152/250
+End temperature : 289.5697767148462
+End training loss : 2173823418.71875
+End reward : -5316.094978581152
+End capacity : 99.58
+---------------------------------------------
+Completed game 153/250
+End temperature : 289.5889301524442
+End training loss : 2176370851.125
+End reward : -5313.854644178786
+End capacity : 99.58
+---------------------------------------------
+Completed game 154/250
+End temperature : 289.4073731334028
+End training loss : 2175625237.361328
+End reward : -5332.808262028212
+End capacity : 99.57
+---------------------------------------------
+Completed game 155/250
+End temperature : 289.4518082250586
+End training loss : 2173931337.9921875
+End reward : -5325.467712447325
+End capacity : 99.58
+---------------------------------------------
+Completed game 156/250
+End temperature : 289.5024804603522
+End training loss : 2175168993.4648438
+End reward : -5321.28915033801
+End capacity : 99.58
+---------------------------------------------
+Completed game 157/250
+End temperature : 289.392646950102
+End training loss : 2172844962.125
+End reward : -5335.052798711501
+End capacity : 99.58
+---------------------------------------------
+Completed game 158/250
+End temperature : 289.4034147107532
+End training loss : 2173579355.001953
+End reward : -5330.413511043505
+End capacity : 99.58
+---------------------------------------------
+Completed game 159/250
+End temperature : 289.37513069594445
+End training loss : 2174568864.1757812
+End reward : -5333.328678667488
+End capacity : 99.58
+---------------------------------------------
+Completed game 160/250
+End temperature : 289.3778855490698
+End training loss : 2173607998.578125
+End reward : -5336.394038255853
+End capacity : 99.57
+---------------------------------------------
+Completed game 161/250
+End temperature : 289.34539235868175
+End training loss : 2173571845.345703
+End reward : -5335.4085983968125
+End capacity : 99.58
+---------------------------------------------
+Completed game 162/250
+End temperature : 289.2861865745074
+End training loss : 2173532316.2714844
+End reward : -5339.750275676762
+End capacity : 99.57
+---------------------------------------------
+Completed game 163/250
+End temperature : 289.2603955935656
+End training loss : 2171893833.415039
+End reward : -5348.022995735139
+End capacity : 99.57
+---------------------------------------------
+Completed game 164/250
+End temperature : 289.24885241994576
+End training loss : 2173129264.857422
+End reward : -5345.5657628585395
+End capacity : 99.57
+---------------------------------------------
+Completed game 165/250
+End temperature : 289.17144094938914
+End training loss : 2173832638.3652344
+End reward : -5356.688136785981
+End capacity : 99.57
+---------------------------------------------
+Completed game 166/250
+End temperature : 289.21065886680583
+End training loss : 2172259923.489258
+End reward : -5350.589451899964
+End capacity : 99.57
+---------------------------------------------
+Completed game 167/250
+End temperature : 289.1742524600244
+End training loss : 2172975564.2597656
+End reward : -5352.610661046305
+End capacity : 99.57
+---------------------------------------------
+Completed game 168/250
+End temperature : 289.12552188634606
+End training loss : 2173403174.3046875
+End reward : -5355.7626969170615
+End capacity : 99.57
+---------------------------------------------
+Completed game 169/250
+End temperature : 289.1429510115424
+End training loss : 2171084430.6308594
+End reward : -5354.424730127207
+End capacity : 99.57
+---------------------------------------------
+Completed game 170/250
+End temperature : 289.12461818555965
+End training loss : 2170368779.171875
+End reward : -5355.1548683518095
+End capacity : 99.57
+---------------------------------------------
+Completed game 171/250
+End temperature : 289.0483963296869
+End training loss : 2172423620.298828
+End reward : -5366.053619105271
+End capacity : 99.57
+---------------------------------------------
+Completed game 172/250
+End temperature : 289.0771369270578
+End training loss : 2171265579.0996094
+End reward : -5362.083544886712
+End capacity : 99.57
+---------------------------------------------
+Completed game 173/250
+End temperature : 289.0698531385649
+End training loss : 2171756216.720703
+End reward : -5360.531480315274
+End capacity : 99.57
+---------------------------------------------
+Completed game 174/250
+End temperature : 289.05803413710055
+End training loss : 2171332787.9648438
+End reward : -5364.93211022596
+End capacity : 99.57
+---------------------------------------------
+70.0% completed...
+Fri, 11 May 2018 10:36:17
+---------------------------------------------
+Completed game 175/250
+End temperature : 289.0669307290818
+End training loss : 2173339429.9726562
+End reward : -5365.025062479935
+End capacity : 99.57
+---------------------------------------------
+Completed game 176/250
+End temperature : 289.054172733205
+End training loss : 2170412976.743164
+End reward : -5365.555607688781
+End capacity : 99.57
+---------------------------------------------
+Completed game 177/250
+End temperature : 289.0510852926344
+End training loss : 2171125099.3378906
+End reward : -5363.862999716063
+End capacity : 99.57
+---------------------------------------------
+Completed game 178/250
+End temperature : 288.9749523851575
+End training loss : 2170607578.5976562
+End reward : -5373.010314712384
+End capacity : 99.57
+---------------------------------------------
+Completed game 179/250
+End temperature : 288.96932534159424
+End training loss : 2170701988.984375
+End reward : -5367.725637744576
+End capacity : 99.57
+---------------------------------------------
+Completed game 180/250
+End temperature : 288.92036169246506
+End training loss : 2168665118.2539062
+End reward : -5376.443675093783
+End capacity : 99.57
+---------------------------------------------
+Completed game 181/250
+End temperature : 288.91819910833914
+End training loss : 2169765791.0195312
+End reward : -5377.496946178499
+End capacity : 99.57
+---------------------------------------------
+Completed game 182/250
+End temperature : 288.9247275833198
+End training loss : 2169866969.689453
+End reward : -5375.636301848215
+End capacity : 99.57
+---------------------------------------------
+Completed game 183/250
+End temperature : 288.86938376417856
+End training loss : 2167930680.9882812
+End reward : -5382.909162864653
+End capacity : 99.57
+---------------------------------------------
+Completed game 184/250
+End temperature : 288.884281611843
+End training loss : 2168877590.703125
+End reward : -5382.648874404348
+End capacity : 99.57
+---------------------------------------------
+Completed game 185/250
+End temperature : 288.89143054614806
+End training loss : 2168255144.1992188
+End reward : -5377.326663091258
+End capacity : 99.57
+---------------------------------------------
+Completed game 186/250
+End temperature : 288.87417262391205
+End training loss : 2167820666.9570312
+End reward : -5382.698699535841
+End capacity : 99.57
+---------------------------------------------
+Completed game 187/250
+End temperature : 288.8750373026738
+End training loss : 2166797291.3984375
+End reward : -5381.929058623427
+End capacity : 99.57
+---------------------------------------------
+Completed game 188/250
+End temperature : 288.811009829433
+End training loss : 2167721551.8125
+End reward : -5386.459643591405
+End capacity : 99.57
+---------------------------------------------
+Completed game 189/250
+End temperature : 288.8488821980631
+End training loss : 2166542709.303711
+End reward : -5384.57626416801
+End capacity : 99.57
+---------------------------------------------
+Completed game 190/250
+End temperature : 288.7891715803742
+End training loss : 2166443278.326172
+End reward : -5389.499822340743
+End capacity : 99.57
+---------------------------------------------
+Completed game 191/250
+End temperature : 288.8005869942152
+End training loss : 2165913561.8984375
+End reward : -5390.005488987798
+End capacity : 99.57
+---------------------------------------------
+Completed game 192/250
+End temperature : 288.8084393197646
+End training loss : 2167372134.1953125
+End reward : -5388.551805756821
+End capacity : 99.57
+---------------------------------------------
+Completed game 193/250
+End temperature : 288.80079037338004
+End training loss : 2166868822.5566406
+End reward : -5391.938167240206
+End capacity : 99.57
+---------------------------------------------
+Completed game 194/250
+End temperature : 288.7804412065721
+End training loss : 2164996424.123047
+End reward : -5391.563412951038
+End capacity : 99.57
+---------------------------------------------
+Completed game 195/250
+End temperature : 288.7530128005847
+End training loss : 2165472890.361328
+End reward : -5393.856920767157
+End capacity : 99.57
+---------------------------------------------
+Completed game 196/250
+End temperature : 288.73814475598084
+End training loss : 2165611094.036133
+End reward : -5393.500480577549
+End capacity : 99.57
+---------------------------------------------
+Completed game 197/250
+End temperature : 288.75389889919074
+End training loss : 2165041310.1933594
+End reward : -5392.182165444734
+End capacity : 99.57
+---------------------------------------------
+Completed game 198/250
+End temperature : 288.7499744434851
+End training loss : 2163936195.7714844
+End reward : -5392.074870709395
+End capacity : 99.57
+---------------------------------------------
+Completed game 199/250
+End temperature : 288.69675374187693
+End training loss : 2163733446.8085938
+End reward : -5397.775578001701
+End capacity : 99.57
+---------------------------------------------
+80.0% completed...
+Fri, 11 May 2018 10:51:49
+---------------------------------------------
+Completed game 200/250
+End temperature : 288.6789095545321
+End training loss : 2163087783.9316406
+End reward : -5400.412871388423
+End capacity : 99.56
+---------------------------------------------
+Completed game 201/250
+End temperature : 288.703117938244
+End training loss : 2163424305.34375
+End reward : -5397.756918899045
+End capacity : 99.56
+---------------------------------------------
+Completed game 202/250
+End temperature : 288.6911731272185
+End training loss : 2162344033.4179688
+End reward : -5397.693195814334
+End capacity : 99.56
+---------------------------------------------
+Completed game 203/250
+End temperature : 288.6734251356465
+End training loss : 2161418121.3466797
+End reward : -5399.724597746687
+End capacity : 99.56
+---------------------------------------------
+Completed game 204/250
+End temperature : 288.65415045883043
+End training loss : 2163001585.9140625
+End reward : -5403.44296426606
+End capacity : 99.56
+---------------------------------------------
+Completed game 205/250
+End temperature : 288.6314133401372
+End training loss : 2160496352.1835938
+End reward : -5404.562813967761
+End capacity : 99.56
+---------------------------------------------
+Completed game 206/250
+End temperature : 288.6480200218851
+End training loss : 2162685650.100586
+End reward : -5404.75151263654
+End capacity : 99.56
+---------------------------------------------
+Completed game 207/250
+End temperature : 288.6411779072463
+End training loss : 2161077774.3085938
+End reward : -5404.475681995046
+End capacity : 99.56
+---------------------------------------------
+Completed game 208/250
+End temperature : 288.6434506406885
+End training loss : 2160525617.328125
+End reward : -5403.900911315949
+End capacity : 99.56
+---------------------------------------------
+Completed game 209/250
+End temperature : 288.63909201503185
+End training loss : 2161839353.4101562
+End reward : -5402.868346509167
+End capacity : 99.56
+---------------------------------------------
+Completed game 210/250
+End temperature : 288.6216590175196
+End training loss : 2159782565.8964844
+End reward : -5405.571775956031
+End capacity : 99.56
+---------------------------------------------
+Completed game 211/250
+End temperature : 288.61249083639666
+End training loss : 2159089583.4101562
+End reward : -5406.755834414156
+End capacity : 99.56
+---------------------------------------------
+Completed game 212/250
+End temperature : 288.61082685439777
+End training loss : 2160144557.751953
+End reward : -5407.044721050487
+End capacity : 99.56
+---------------------------------------------
+Completed game 213/250
+End temperature : 288.6043709802998
+End training loss : 2159452477.1210938
+End reward : -5407.699320436884
+End capacity : 99.56
+---------------------------------------------
+Completed game 214/250
+End temperature : 288.5783233824664
+End training loss : 2157771176.71875
+End reward : -5410.572218229731
+End capacity : 99.56
+---------------------------------------------
+Completed game 215/250
+End temperature : 288.584478857707
+End training loss : 2159188348.689453
+End reward : -5410.2948475353305
+End capacity : 99.56
+---------------------------------------------
+Completed game 216/250
+End temperature : 288.5535348299579
+End training loss : 2157200602.5078125
+End reward : -5412.265254408002
+End capacity : 99.56
+---------------------------------------------
+Completed game 217/250
+End temperature : 288.5649298856793
+End training loss : 2157684669.3789062
+End reward : -5410.453859241594
+End capacity : 99.56
+---------------------------------------------
+Completed game 218/250
+End temperature : 288.5657466378384
+End training loss : 2156988145.2148438
+End reward : -5412.06369490277
+End capacity : 99.56
+---------------------------------------------
+Completed game 219/250
+End temperature : 288.5406513820531
+End training loss : 2156440909.7539062
+End reward : -5413.137545358954
+End capacity : 99.56
+---------------------------------------------
+Completed game 220/250
+End temperature : 288.5370968281288
+End training loss : 2156968814.6796875
+End reward : -5413.139584412133
+End capacity : 99.56
+---------------------------------------------
+Completed game 221/250
+End temperature : 288.5439534633533
+End training loss : 2157648702.9960938
+End reward : -5412.920500614235
+End capacity : 99.56
+---------------------------------------------
+Completed game 222/250
+End temperature : 288.5544014467112
+End training loss : 2156992042.3125
+End reward : -5411.3790128017345
+End capacity : 99.56
+---------------------------------------------
+Completed game 223/250
+End temperature : 288.5270325170351
+End training loss : 2155809244.591797
+End reward : -5416.041095404822
+End capacity : 99.56
+---------------------------------------------
+Completed game 224/250
+End temperature : 288.5190501588391
+End training loss : 2155731730.7265625
+End reward : -5416.734979368146
+End capacity : 99.56
+---------------------------------------------
+90.0% completed...
+Fri, 11 May 2018 11:07:22
+---------------------------------------------
+Completed game 225/250
+End temperature : 288.50874373118893
+End training loss : 2154937920.5
+End reward : -5416.990864221345
+End capacity : 99.56
+---------------------------------------------
+Completed game 226/250
+End temperature : 288.49826917585017
+End training loss : 2154187660.46875
+End reward : -5416.989082064466
+End capacity : 99.56
+---------------------------------------------
+Completed game 227/250
+End temperature : 288.5014321203944
+End training loss : 2153162613.359375
+End reward : -5417.071071603047
+End capacity : 99.56
+---------------------------------------------
+Completed game 228/250
+End temperature : 288.5221742635369
+End training loss : 2155038631.6835938
+End reward : -5414.174382402734
+End capacity : 99.56
+---------------------------------------------
+Completed game 229/250
+End temperature : 288.4900673159119
+End training loss : 2154593025.7333984
+End reward : -5417.322347637984
+End capacity : 99.56
+---------------------------------------------
+Completed game 230/250
+End temperature : 288.5012384544889
+End training loss : 2154416548.326172
+End reward : -5416.566902966414
+End capacity : 99.56
+---------------------------------------------
+Completed game 231/250
+End temperature : 288.50280926422494
+End training loss : 2155255589.3125
+End reward : -5416.305768471266
+End capacity : 99.56
+---------------------------------------------
+Completed game 232/250
+End temperature : 288.511721949465
+End training loss : 2155104895.4414062
+End reward : -5416.498463408977
+End capacity : 99.56
+---------------------------------------------
+Completed game 233/250
+End temperature : 288.5030072378202
+End training loss : 2155384301.046875
+End reward : -5416.909430164084
+End capacity : 99.56
+---------------------------------------------
+Completed game 234/250
+End temperature : 288.5158724465624
+End training loss : 2153804066.7304688
+End reward : -5416.016884357079
+End capacity : 99.56
+---------------------------------------------
+Completed game 235/250
+End temperature : 288.5037103655248
+End training loss : 2155094691.2304688
+End reward : -5416.093686309296
+End capacity : 99.56
+---------------------------------------------
+Completed game 236/250
+End temperature : 288.49748874633093
+End training loss : 2154084898.3554688
+End reward : -5417.438014908325
+End capacity : 99.56
+---------------------------------------------
+Completed game 237/250
+End temperature : 288.5002809952816
+End training loss : 2154208584.767578
+End reward : -5417.51793539576
+End capacity : 99.56
+---------------------------------------------
+Completed game 238/250
+End temperature : 288.49697846507956
+End training loss : 2154439136.142578
+End reward : -5417.715316357857
+End capacity : 99.56
+---------------------------------------------
+Completed game 239/250E:\Users\Matt\Anaconda3\envs\tensorflow\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Using TensorFlow backend.
+E:\Users\Matt\Anaconda3\envs\tensorflow\lib\site-packages\keras\models.py:981: UserWarning: The `nb_epoch` argument in `fit` has been renamed `epochs`.
+  warnings.warn('The `nb_epoch` argument in `fit` '
+
+End temperature : 288.4962079796926
+End training loss : 2154834094.251953
+End reward : -5417.149415009956
+End capacity : 99.56
+---------------------------------------------
+Completed game 240/250
+End temperature : 288.50156258688247
+End training loss : 2155096812.4140625
+End reward : -5416.251155745237
+End capacity : 99.56
+---------------------------------------------
+Completed game 241/250
+End temperature : 288.5104590358203
+End training loss : 2156076571.3046875
+End reward : -5415.470148039056
+End capacity : 99.56
+---------------------------------------------
+Completed game 242/250
+End temperature : 288.4940075723695
+End training loss : 2153959523.4453125
+End reward : -5418.2829529089395
+End capacity : 99.56
+---------------------------------------------
+Completed game 243/250
+End temperature : 288.49584903422976
+End training loss : 2153593540.1445312
+End reward : -5417.7142827277685
+End capacity : 99.56
+---------------------------------------------
+Completed game 244/250
+End temperature : 288.500778417602
+End training loss : 2154826015.4785156
+End reward : -5417.744458234355
+End capacity : 99.56
+---------------------------------------------
+Completed game 245/250
+End temperature : 288.5069341525776
+End training loss : 2155095794.357422
+End reward : -5415.277773647182
+End capacity : 99.56
+---------------------------------------------
+Completed game 246/250
+End temperature : 288.50353730425417
+End training loss : 2154732447.2226562
+End reward : -5417.029534425947
+End capacity : 99.56
+---------------------------------------------
+Completed game 247/250
+End temperature : 288.49241211867746
+End training loss : 2153940102.4375
+End reward : -5418.038242556626
+End capacity : 99.56
+---------------------------------------------
+Completed game 248/250
+End temperature : 288.49826171705547
+End training loss : 2153095314.1132812
+End reward : -5417.81320287702
+End capacity : 99.56
+---------------------------------------------
+Completed game 249/250
+End temperature : 288.5000693370795
+End training loss : 2154318262.7929688
+End reward : -5418.358426905174
+End capacity : 99.56
+---------------------------------------------
+100.0% completed...
+Fri, 11 May 2018 11:22:54
+---------------------------------------------
+Completed game 250/250
+End temperature : 288.52118768284083
+End training loss : 2153605484.685547
+End reward : -5415.687317096876
+End capacity : 99.56
+---------------------------------------------
+Fri, 11 May 2018 11:22:54
+Model saved to disk...
