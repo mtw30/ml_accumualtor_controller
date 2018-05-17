@@ -1,0 +1,6 @@
+Working on from attempt 17
+
+Now pre processing some derivatives for temperature, fan speed, generated heat, and speed mph
+
+Each data row now has 13 sets of data
+Brought down the data depth to 2 rows

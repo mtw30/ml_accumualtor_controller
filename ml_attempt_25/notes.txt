@@ -1,0 +1,1 @@
+On top of 24 I am not just going to have the reward function based on the intergral and the direction of movement of the batttery temperature
