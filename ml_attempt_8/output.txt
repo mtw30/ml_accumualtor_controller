@@ -1,0 +1,4043 @@
+(tensorflow) Matt@138-38-183-87:~/google_drive/documents/uni/year_3/EE30147_40148_GDBP_MEng/individual/scripts/ml_attempt_8$ python qlearningscript.py 
+/Users/Matt/tensorflow/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Using TensorFlow backend.
+Processing file : /Users/Matt/google_drive/documents/uni/year_3/EE30147_40148_GDBP_MEng/individual/scripts/traindata_driving_log_7.csv
+Wed, 09 May 2018 07:34:50
+2018-05-09 07:34:50.549331: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+/Users/Matt/tensorflow/lib/python3.6/site-packages/keras/models.py:981: UserWarning: The `nb_epoch` argument in `fit` has been renamed `epochs`.
+  warnings.warn('The `nb_epoch` argument in `fit` '
+---------------------------------------------
+Completed game 1/1000
+End temperature : 304.8734549688435
+End capacity : 99.78
+---------------------------------------------
+Completed game 2/1000
+End temperature : 305.0202872234739
+End capacity : 99.78
+---------------------------------------------
+Completed game 3/1000
+End temperature : 304.7151732142319
+End capacity : 99.78
+---------------------------------------------
+Completed game 4/1000
+End temperature : 304.9244581406675
+End capacity : 99.78
+---------------------------------------------
+Completed game 5/1000
+End temperature : 304.97120439258003
+End capacity : 99.78
+---------------------------------------------
+Completed game 6/1000
+End temperature : 305.0315285516354
+End capacity : 99.78
+---------------------------------------------
+Completed game 7/1000
+End temperature : 307.0131835513049
+End capacity : 99.84
+---------------------------------------------
+Completed game 8/1000
+End temperature : 304.91033704781427
+End capacity : 99.78
+---------------------------------------------
+Completed game 9/1000
+End temperature : 305.01061588644063
+End capacity : 99.78
+---------------------------------------------
+Completed game 10/1000
+End temperature : 304.7399157795658
+End capacity : 99.77
+---------------------------------------------
+Completed game 11/1000
+End temperature : 307.00832287030556
+End capacity : 99.84
+---------------------------------------------
+Completed game 12/1000
+End temperature : 304.5543671967931
+End capacity : 99.77
+---------------------------------------------
+Completed game 13/1000
+End temperature : 305.0968464849449
+End capacity : 99.78
+---------------------------------------------
+Completed game 14/1000
+End temperature : 305.05938691664636
+End capacity : 99.78
+---------------------------------------------
+Completed game 15/1000
+End temperature : 307.00033431825454
+End capacity : 99.84
+---------------------------------------------
+Completed game 16/1000
+End temperature : 307.01369395383745
+End capacity : 99.84
+---------------------------------------------
+Completed game 17/1000
+End temperature : 304.5684920783423
+End capacity : 99.77
+---------------------------------------------
+Completed game 18/1000
+End temperature : 307.0075675287624
+End capacity : 99.84
+---------------------------------------------
+Completed game 19/1000
+End temperature : 304.62963670076465
+End capacity : 99.77
+---------------------------------------------
+Completed game 20/1000
+End temperature : 305.02531155803155
+End capacity : 99.78
+---------------------------------------------
+Completed game 21/1000
+End temperature : 305.06502462403574
+End capacity : 99.78
+---------------------------------------------
+Completed game 22/1000
+End temperature : 305.14916248032216
+End capacity : 99.78
+---------------------------------------------
+Completed game 23/1000
+End temperature : 304.96410671742973
+End capacity : 99.78
+---------------------------------------------
+Completed game 24/1000
+End temperature : 305.0837085882857
+End capacity : 99.78
+---------------------------------------------
+Completed game 25/1000
+End temperature : 304.87363897677966
+End capacity : 99.78
+---------------------------------------------
+Completed game 26/1000
+End temperature : 304.7177688751083
+End capacity : 99.78
+---------------------------------------------
+Completed game 27/1000
+End temperature : 304.43871834519126
+End capacity : 99.77
+---------------------------------------------
+Completed game 28/1000
+End temperature : 304.60140439609927
+End capacity : 99.77
+---------------------------------------------
+Completed game 29/1000
+End temperature : 305.0564190891144
+End capacity : 99.78
+---------------------------------------------
+Completed game 30/1000
+End temperature : 304.984344894611
+End capacity : 99.78
+---------------------------------------------
+Completed game 31/1000
+End temperature : 307.01315939890054
+End capacity : 99.84
+---------------------------------------------
+Completed game 32/1000
+End temperature : 304.9199555745977
+End capacity : 99.78
+---------------------------------------------
+Completed game 33/1000
+End temperature : 304.7270174149234
+End capacity : 99.78
+---------------------------------------------
+Completed game 34/1000
+End temperature : 307.0129476420069
+End capacity : 99.84
+---------------------------------------------
+Completed game 35/1000
+End temperature : 307.000614973863
+End capacity : 99.84
+---------------------------------------------
+Completed game 36/1000
+End temperature : 304.87323260790737
+End capacity : 99.78
+---------------------------------------------
+Completed game 37/1000
+End temperature : 304.5217595287411
+End capacity : 99.77
+---------------------------------------------
+Completed game 38/1000
+End temperature : 305.12694955168115
+End capacity : 99.78
+---------------------------------------------
+Completed game 39/1000
+End temperature : 304.40518963018485
+End capacity : 99.77
+---------------------------------------------
+Completed game 40/1000
+End temperature : 304.70637068891705
+End capacity : 99.78
+---------------------------------------------
+Completed game 41/1000
+End temperature : 307.3754935680887
+End capacity : 99.85
+---------------------------------------------
+Completed game 42/1000
+End temperature : 304.28043641969805
+End capacity : 99.77
+---------------------------------------------
+Completed game 43/1000
+End temperature : 304.5294312243186
+End capacity : 99.77
+---------------------------------------------
+Completed game 44/1000
+End temperature : 304.3013582064394
+End capacity : 99.77
+---------------------------------------------
+Completed game 45/1000
+End temperature : 307.01270617713703
+End capacity : 99.84
+---------------------------------------------
+Completed game 46/1000
+End temperature : 304.43568175219406
+End capacity : 99.77
+---------------------------------------------
+Completed game 47/1000
+End temperature : 307.00481051498105
+End capacity : 99.84
+---------------------------------------------
+Completed game 48/1000
+End temperature : 307.05221363487766
+End capacity : 99.85
+---------------------------------------------
+Completed game 49/1000
+End temperature : 307.16314847481874
+End capacity : 99.85
+---------------------------------------------
+Completed game 50/1000
+End temperature : 307.01037605849297
+End capacity : 99.84
+---------------------------------------------
+Completed game 51/1000
+End temperature : 307.16368661536546
+End capacity : 99.85
+---------------------------------------------
+Completed game 52/1000
+End temperature : 304.5033250830506
+End capacity : 99.77
+---------------------------------------------
+Completed game 53/1000
+End temperature : 307.01252398344167
+End capacity : 99.84
+---------------------------------------------
+Completed game 54/1000
+End temperature : 303.886007141489
+End capacity : 99.77
+---------------------------------------------
+Completed game 55/1000
+End temperature : 304.91575356592216
+End capacity : 99.78
+---------------------------------------------
+Completed game 56/1000
+End temperature : 304.3697660076146
+End capacity : 99.77
+---------------------------------------------
+Completed game 57/1000
+End temperature : 307.2646821213357
+End capacity : 99.85
+---------------------------------------------
+Completed game 58/1000
+End temperature : 304.1973713688831
+End capacity : 99.77
+---------------------------------------------
+Completed game 59/1000
+End temperature : 304.20892391081105
+End capacity : 99.77
+---------------------------------------------
+Completed game 60/1000
+End temperature : 307.02475576709134
+End capacity : 99.85
+---------------------------------------------
+Completed game 61/1000
+End temperature : 304.81318051974597
+End capacity : 99.78
+---------------------------------------------
+Completed game 62/1000
+End temperature : 304.7779859002184
+End capacity : 99.78
+---------------------------------------------
+Completed game 63/1000
+End temperature : 304.02801117873906
+End capacity : 99.77
+---------------------------------------------
+Completed game 64/1000
+End temperature : 304.55788168978626
+End capacity : 99.77
+---------------------------------------------
+Completed game 65/1000
+End temperature : 307.1604177607883
+End capacity : 99.85
+---------------------------------------------
+Completed game 66/1000
+End temperature : 307.00350685224663
+End capacity : 99.86
+---------------------------------------------
+Completed game 67/1000
+End temperature : 307.1506380884425
+End capacity : 99.85
+---------------------------------------------
+Completed game 68/1000
+End temperature : 304.76793842614484
+End capacity : 99.78
+---------------------------------------------
+Completed game 69/1000
+End temperature : 304.284752862465
+End capacity : 99.77
+---------------------------------------------
+Completed game 70/1000
+End temperature : 307.3603038550039
+End capacity : 99.85
+---------------------------------------------
+Completed game 71/1000
+End temperature : 307.0081470269379
+End capacity : 99.84
+---------------------------------------------
+Completed game 72/1000
+End temperature : 307.3452735153665
+End capacity : 99.85
+---------------------------------------------
+Completed game 73/1000
+End temperature : 304.025966135259
+End capacity : 99.77
+---------------------------------------------
+Completed game 74/1000
+End temperature : 304.8539384066919
+End capacity : 99.78
+---------------------------------------------
+Completed game 75/1000
+End temperature : 307.0038163011338
+End capacity : 99.84
+---------------------------------------------
+Completed game 76/1000
+End temperature : 307.00390076333593
+End capacity : 99.86
+---------------------------------------------
+Completed game 77/1000
+End temperature : 303.9099430957235
+End capacity : 99.77
+---------------------------------------------
+Completed game 78/1000
+End temperature : 307.2501890155939
+End capacity : 99.85
+---------------------------------------------
+Completed game 79/1000
+End temperature : 307.22958341268514
+End capacity : 99.85
+---------------------------------------------
+Completed game 80/1000
+End temperature : 303.25639082403865
+End capacity : 99.76
+---------------------------------------------
+Completed game 81/1000
+End temperature : 304.0794570004714
+End capacity : 99.77
+---------------------------------------------
+Completed game 82/1000
+End temperature : 307.0032964605982
+End capacity : 99.84
+---------------------------------------------
+Completed game 83/1000
+End temperature : 304.317096238108
+End capacity : 99.77
+---------------------------------------------
+Completed game 84/1000
+End temperature : 304.56389492222627
+End capacity : 99.77
+---------------------------------------------
+Completed game 85/1000
+End temperature : 303.7172279464317
+End capacity : 99.76
+---------------------------------------------
+Completed game 86/1000
+End temperature : 307.06414864506803
+End capacity : 99.85
+---------------------------------------------
+Completed game 87/1000
+End temperature : 304.1403266314701
+End capacity : 99.77
+---------------------------------------------
+Completed game 88/1000
+End temperature : 304.22778055476243
+End capacity : 99.77
+---------------------------------------------
+Completed game 89/1000
+End temperature : 304.0926634344137
+End capacity : 99.77
+---------------------------------------------
+Completed game 90/1000
+End temperature : 307.138387533506
+End capacity : 99.85
+---------------------------------------------
+Completed game 91/1000
+End temperature : 307.3985872565673
+End capacity : 99.85
+---------------------------------------------
+Completed game 92/1000
+End temperature : 304.3200066420091
+End capacity : 99.77
+---------------------------------------------
+Completed game 93/1000
+End temperature : 304.45448748859735
+End capacity : 99.77
+---------------------------------------------
+Completed game 94/1000
+End temperature : 303.8744270355949
+End capacity : 99.77
+---------------------------------------------
+Completed game 95/1000
+End temperature : 304.08687572131447
+End capacity : 99.77
+---------------------------------------------
+Completed game 96/1000
+End temperature : 304.07135881003927
+End capacity : 99.77
+---------------------------------------------
+Completed game 97/1000
+End temperature : 303.2686195684675
+End capacity : 99.76
+---------------------------------------------
+Completed game 98/1000
+End temperature : 307.0814311681218
+End capacity : 99.85
+---------------------------------------------
+Completed game 99/1000
+End temperature : 307.4323236952635
+End capacity : 99.85
+---------------------------------------------
+10.0% completed...
+Wed, 09 May 2018 08:27:59
+---------------------------------------------
+Completed game 100/1000
+End temperature : 303.6438261301279
+End capacity : 99.77
+---------------------------------------------
+Completed game 101/1000
+End temperature : 307.42333136794315
+End capacity : 99.85
+---------------------------------------------
+Completed game 102/1000
+End temperature : 304.48923985882374
+End capacity : 99.77
+---------------------------------------------
+Completed game 103/1000
+End temperature : 304.1089004130658
+End capacity : 99.77
+---------------------------------------------
+Completed game 104/1000
+End temperature : 304.084390082186
+End capacity : 99.77
+---------------------------------------------
+Completed game 105/1000
+End temperature : 305.09767967695376
+End capacity : 99.78
+---------------------------------------------
+Completed game 106/1000
+End temperature : 307.00922397961705
+End capacity : 99.88
+---------------------------------------------
+Completed game 107/1000
+End temperature : 307.4462871880389
+End capacity : 99.85
+---------------------------------------------
+Completed game 108/1000
+End temperature : 307.44857175383225
+End capacity : 99.85
+---------------------------------------------
+Completed game 109/1000
+End temperature : 303.8056172657802
+End capacity : 99.77
+---------------------------------------------
+Completed game 110/1000
+End temperature : 304.5394045814959
+End capacity : 99.77
+---------------------------------------------
+Completed game 111/1000
+End temperature : 307.09150599247465
+End capacity : 99.85
+---------------------------------------------
+Completed game 112/1000
+End temperature : 302.81134097915503
+End capacity : 99.75
+---------------------------------------------
+Completed game 113/1000
+End temperature : 304.0945025895773
+End capacity : 99.77
+---------------------------------------------
+Completed game 114/1000
+End temperature : 303.91644640508895
+End capacity : 99.77
+---------------------------------------------
+Completed game 115/1000
+End temperature : 304.85048473168297
+End capacity : 99.78
+---------------------------------------------
+Completed game 116/1000
+End temperature : 302.8288318280961
+End capacity : 99.75
+---------------------------------------------
+Completed game 117/1000
+End temperature : 302.982028389286
+End capacity : 99.76
+---------------------------------------------
+Completed game 118/1000
+End temperature : 307.0026629921622
+End capacity : 99.84
+---------------------------------------------
+Completed game 119/1000
+End temperature : 303.4578672082739
+End capacity : 99.76
+---------------------------------------------
+Completed game 120/1000
+End temperature : 304.3593432791608
+End capacity : 99.77
+---------------------------------------------
+Completed game 121/1000
+End temperature : 307.31644752545685
+End capacity : 99.85
+---------------------------------------------
+Completed game 122/1000
+End temperature : 307.0218810219119
+End capacity : 99.88
+---------------------------------------------
+Completed game 123/1000
+End temperature : 307.01541553064123
+End capacity : 99.88
+---------------------------------------------
+Completed game 124/1000
+End temperature : 307.1674183283271
+End capacity : 99.85
+---------------------------------------------
+Completed game 125/1000
+End temperature : 307.00039283600603
+End capacity : 99.84
+---------------------------------------------
+Completed game 126/1000
+End temperature : 302.8992600069199
+End capacity : 99.75
+---------------------------------------------
+Completed game 127/1000
+End temperature : 302.38416707842623
+End capacity : 99.75
+---------------------------------------------
+Completed game 128/1000
+End temperature : 307.01090053021363
+End capacity : 99.84
+---------------------------------------------
+Completed game 129/1000
+End temperature : 307.0046021510279
+End capacity : 99.84
+---------------------------------------------
+Completed game 130/1000
+End temperature : 303.3715597079694
+End capacity : 99.76
+---------------------------------------------
+Completed game 131/1000
+End temperature : 307.05392815521265
+End capacity : 99.84
+---------------------------------------------
+Completed game 132/1000
+End temperature : 307.2421406815492
+End capacity : 99.85
+---------------------------------------------
+Completed game 133/1000
+End temperature : 303.08978330481096
+End capacity : 99.76
+---------------------------------------------
+Completed game 134/1000
+End temperature : 302.5951866972437
+End capacity : 99.75
+---------------------------------------------
+Completed game 135/1000
+End temperature : 304.7341196491971
+End capacity : 99.77
+---------------------------------------------
+Completed game 136/1000
+End temperature : 303.8879627993696
+End capacity : 99.77
+---------------------------------------------
+Completed game 137/1000
+End temperature : 307.01332925281474
+End capacity : 99.87
+---------------------------------------------
+Completed game 138/1000
+End temperature : 307.4501138179266
+End capacity : 99.85
+---------------------------------------------
+Completed game 139/1000
+End temperature : 304.2334519703847
+End capacity : 99.77
+---------------------------------------------
+Completed game 140/1000
+End temperature : 307.5438923002709
+End capacity : 99.85
+---------------------------------------------
+Completed game 141/1000
+End temperature : 307.01219446862626
+End capacity : 99.89
+---------------------------------------------
+Completed game 142/1000
+End temperature : 307.0172937793229
+End capacity : 99.89
+---------------------------------------------
+Completed game 143/1000
+End temperature : 307.02646789510203
+End capacity : 99.89
+---------------------------------------------
+Completed game 144/1000
+End temperature : 304.0259084290811
+End capacity : 99.77
+---------------------------------------------
+Completed game 145/1000
+End temperature : 302.55017715675615
+End capacity : 99.75
+---------------------------------------------
+Completed game 146/1000
+End temperature : 302.0500187011192
+End capacity : 99.74
+---------------------------------------------
+Completed game 147/1000
+End temperature : 304.1199951037946
+End capacity : 99.77
+---------------------------------------------
+Completed game 148/1000
+End temperature : 304.13541891873706
+End capacity : 99.77
+---------------------------------------------
+Completed game 149/1000
+End temperature : 302.8613649652711
+End capacity : 99.75
+---------------------------------------------
+Completed game 150/1000
+End temperature : 301.8165405077801
+End capacity : 99.74
+---------------------------------------------
+Completed game 151/1000
+End temperature : 307.27072920300054
+End capacity : 99.85
+---------------------------------------------
+Completed game 152/1000
+End temperature : 302.4480000559422
+End capacity : 99.75
+---------------------------------------------
+Completed game 153/1000
+End temperature : 307.46976398336096
+End capacity : 99.85
+---------------------------------------------
+Completed game 154/1000
+End temperature : 307.0048782062382
+End capacity : 99.88
+---------------------------------------------
+Completed game 155/1000
+End temperature : 302.1195330820225
+End capacity : 99.74
+---------------------------------------------
+Completed game 156/1000
+End temperature : 307.01160069694765
+End capacity : 99.87
+---------------------------------------------
+Completed game 157/1000
+End temperature : 307.017125475941
+End capacity : 99.89
+---------------------------------------------
+Completed game 158/1000
+End temperature : 307.00232636461254
+End capacity : 99.86
+---------------------------------------------
+Completed game 159/1000
+End temperature : 307.0135295803236
+End capacity : 99.87
+---------------------------------------------
+Completed game 160/1000
+End temperature : 302.4150695146284
+End capacity : 99.75
+---------------------------------------------
+Completed game 161/1000
+End temperature : 301.85862091749937
+End capacity : 99.74
+---------------------------------------------
+Completed game 162/1000
+End temperature : 303.1856997700747
+End capacity : 99.76
+---------------------------------------------
+Completed game 163/1000
+End temperature : 307.3641720830816
+End capacity : 99.85
+---------------------------------------------
+Completed game 164/1000
+End temperature : 307.0063356934176
+End capacity : 99.89
+---------------------------------------------
+Completed game 165/1000
+End temperature : 303.7913098590648
+End capacity : 99.76
+---------------------------------------------
+Completed game 166/1000
+End temperature : 307.0090796646131
+End capacity : 99.89
+---------------------------------------------
+Completed game 167/1000
+End temperature : 301.86152600452516
+End capacity : 99.74
+---------------------------------------------
+Completed game 168/1000
+End temperature : 307.01729513923783
+End capacity : 99.87
+---------------------------------------------
+Completed game 169/1000
+End temperature : 303.87363185353894
+End capacity : 99.77
+---------------------------------------------
+Completed game 170/1000
+End temperature : 307.01275771349896
+End capacity : 99.88
+---------------------------------------------
+Completed game 171/1000
+End temperature : 302.11095326585104
+End capacity : 99.74
+---------------------------------------------
+Completed game 172/1000
+End temperature : 307.01234348457996
+End capacity : 99.87
+---------------------------------------------
+Completed game 173/1000
+End temperature : 301.99749287107403
+End capacity : 99.74
+---------------------------------------------
+Completed game 174/1000
+End temperature : 302.9250149756539
+End capacity : 99.75
+---------------------------------------------
+Completed game 175/1000
+End temperature : 302.2907144620477
+End capacity : 99.75
+---------------------------------------------
+Completed game 176/1000
+End temperature : 304.98926692012145
+End capacity : 99.78
+---------------------------------------------
+Completed game 177/1000
+End temperature : 307.0037985559068
+End capacity : 99.89
+---------------------------------------------
+Completed game 178/1000
+End temperature : 302.13864989455044
+End capacity : 99.74
+---------------------------------------------
+Completed game 179/1000
+End temperature : 304.8162913096271
+End capacity : 99.78
+---------------------------------------------
+Completed game 180/1000
+End temperature : 301.7722257391787
+End capacity : 99.74
+---------------------------------------------
+Completed game 181/1000
+End temperature : 307.0230963327726
+End capacity : 99.87
+---------------------------------------------
+Completed game 182/1000
+End temperature : 301.71130861665375
+End capacity : 99.74
+---------------------------------------------
+Completed game 183/1000
+End temperature : 304.0549215992542
+End capacity : 99.77
+---------------------------------------------
+Completed game 184/1000
+End temperature : 304.26557952921644
+End capacity : 99.77
+---------------------------------------------
+Completed game 185/1000
+End temperature : 307.0220583337121
+End capacity : 99.89
+---------------------------------------------
+Completed game 186/1000
+End temperature : 303.7291823809504
+End capacity : 99.76
+---------------------------------------------
+Completed game 187/1000
+End temperature : 307.00816126110993
+End capacity : 99.87
+---------------------------------------------
+Completed game 188/1000
+End temperature : 307.01615621042123
+End capacity : 99.88
+---------------------------------------------
+Completed game 189/1000
+End temperature : 307.4896189225751
+End capacity : 99.90
+---------------------------------------------
+Completed game 190/1000
+End temperature : 307.22882611163107
+End capacity : 99.89
+---------------------------------------------
+Completed game 191/1000
+End temperature : 301.5264422209343
+End capacity : 99.74
+---------------------------------------------
+Completed game 192/1000
+End temperature : 307.62752268699046
+End capacity : 99.85
+---------------------------------------------
+Completed game 193/1000
+End temperature : 307.59010185717744
+End capacity : 99.89
+---------------------------------------------
+Completed game 194/1000
+End temperature : 301.8678329332966
+End capacity : 99.74
+---------------------------------------------
+Completed game 195/1000
+End temperature : 301.0849983519087
+End capacity : 99.73
+---------------------------------------------
+Completed game 196/1000
+End temperature : 301.2905591639947
+End capacity : 99.73
+---------------------------------------------
+Completed game 197/1000
+End temperature : 301.4543100518954
+End capacity : 99.74
+---------------------------------------------
+Completed game 198/1000
+End temperature : 303.15418494091296
+End capacity : 99.76
+---------------------------------------------
+Completed game 199/1000
+End temperature : 304.0405332274139
+End capacity : 99.77
+---------------------------------------------
+20.0% completed...
+Wed, 09 May 2018 09:17:50
+---------------------------------------------
+Completed game 200/1000
+End temperature : 303.63024336269365
+End capacity : 99.77
+---------------------------------------------
+Completed game 201/1000
+End temperature : 302.8878103154464
+End capacity : 99.75
+---------------------------------------------
+Completed game 202/1000
+End temperature : 300.991642778101
+End capacity : 99.73
+---------------------------------------------
+Completed game 203/1000
+End temperature : 307.0073569788794
+End capacity : 99.84
+---------------------------------------------
+Completed game 204/1000
+End temperature : 307.00985086983883
+End capacity : 99.86
+---------------------------------------------
+Completed game 205/1000
+End temperature : 301.8506697418127
+End capacity : 99.74
+---------------------------------------------
+Completed game 206/1000
+End temperature : 304.24141865450156
+End capacity : 99.77
+---------------------------------------------
+Completed game 207/1000
+End temperature : 300.92846461316014
+End capacity : 99.73
+---------------------------------------------
+Completed game 208/1000
+End temperature : 307.00933303862877
+End capacity : 99.88
+---------------------------------------------
+Completed game 209/1000
+End temperature : 307.56824216374036
+End capacity : 99.90
+---------------------------------------------
+Completed game 210/1000
+End temperature : 303.571980631794
+End capacity : 99.76
+---------------------------------------------
+Completed game 211/1000
+End temperature : 307.003109341998
+End capacity : 99.89
+---------------------------------------------
+Completed game 212/1000
+End temperature : 301.0165565764166
+End capacity : 99.73
+---------------------------------------------
+Completed game 213/1000
+End temperature : 307.0034493167451
+End capacity : 99.87
+---------------------------------------------
+Completed game 214/1000
+End temperature : 307.0108596758322
+End capacity : 99.91
+---------------------------------------------
+Completed game 215/1000
+End temperature : 304.6766922556302
+End capacity : 99.77
+---------------------------------------------
+Completed game 216/1000
+End temperature : 302.6154360220683
+End capacity : 99.75
+---------------------------------------------
+Completed game 217/1000
+End temperature : 307.0135476793155
+End capacity : 99.86
+---------------------------------------------
+Completed game 218/1000
+End temperature : 303.1659866975921
+End capacity : 99.76
+---------------------------------------------
+Completed game 219/1000
+End temperature : 307.01520976316107
+End capacity : 99.84
+---------------------------------------------
+Completed game 220/1000
+End temperature : 300.84706443681415
+End capacity : 99.73
+---------------------------------------------
+Completed game 221/1000
+End temperature : 302.36249445549197
+End capacity : 99.75
+---------------------------------------------
+Completed game 222/1000
+End temperature : 307.00422123235717
+End capacity : 99.84
+---------------------------------------------
+Completed game 223/1000
+End temperature : 300.87434459355563
+End capacity : 99.73
+---------------------------------------------
+Completed game 224/1000
+End temperature : 307.01140126432375
+End capacity : 99.81
+---------------------------------------------
+Completed game 225/1000
+End temperature : 304.34569871432024
+End capacity : 99.77
+---------------------------------------------
+Completed game 226/1000
+End temperature : 300.69027835984224
+End capacity : 99.73
+---------------------------------------------
+Completed game 227/1000
+End temperature : 307.2654699889527
+End capacity : 99.90
+---------------------------------------------
+Completed game 228/1000
+End temperature : 301.2062271364456
+End capacity : 99.73
+---------------------------------------------
+Completed game 229/1000
+End temperature : 307.0144713825523
+End capacity : 99.88
+---------------------------------------------
+Completed game 230/1000
+End temperature : 300.70885614749955
+End capacity : 99.72
+---------------------------------------------
+Completed game 231/1000
+End temperature : 307.0972266007663
+End capacity : 99.82
+---------------------------------------------
+Completed game 232/1000
+End temperature : 307.13583773925245
+End capacity : 99.91
+---------------------------------------------
+Completed game 233/1000
+End temperature : 307.0023243787008
+End capacity : 99.92
+---------------------------------------------
+Completed game 234/1000
+End temperature : 307.0501562312772
+End capacity : 99.89
+---------------------------------------------
+Completed game 235/1000
+End temperature : 307.3084346011163
+End capacity : 99.91
+---------------------------------------------
+Completed game 236/1000
+End temperature : 307.0066333784276
+End capacity : 99.90
+---------------------------------------------
+Completed game 237/1000
+End temperature : 307.0079838928978
+End capacity : 99.91
+---------------------------------------------
+Completed game 238/1000
+End temperature : 307.39615347633884
+End capacity : 99.91
+---------------------------------------------
+Completed game 239/1000
+End temperature : 303.8292460486646
+End capacity : 99.76
+---------------------------------------------
+Completed game 240/1000
+End temperature : 307.0091687418096
+End capacity : 99.90
+---------------------------------------------
+Completed game 241/1000
+End temperature : 307.0105957957203
+End capacity : 99.84
+---------------------------------------------
+Completed game 242/1000
+End temperature : 307.20841688308377
+End capacity : 99.89
+---------------------------------------------
+Completed game 243/1000
+End temperature : 307.0039671828857
+End capacity : 99.90
+---------------------------------------------
+Completed game 244/1000
+End temperature : 307.01192900264255
+End capacity : 99.91
+---------------------------------------------
+Completed game 245/1000
+End temperature : 304.3549015529974
+End capacity : 99.77
+---------------------------------------------
+Completed game 246/1000
+End temperature : 300.1194055933323
+End capacity : 99.72
+---------------------------------------------
+Completed game 247/1000
+End temperature : 307.54337413275556
+End capacity : 99.85
+---------------------------------------------
+Completed game 248/1000
+End temperature : 307.2769016465866
+End capacity : 99.89
+---------------------------------------------
+Completed game 249/1000
+End temperature : 307.0121393618421
+End capacity : 99.88
+---------------------------------------------
+Completed game 250/1000
+End temperature : 307.10678417485497
+End capacity : 99.91
+---------------------------------------------
+Completed game 251/1000
+End temperature : 307.00702877672506
+End capacity : 99.91
+---------------------------------------------
+Completed game 252/1000
+End temperature : 307.001045465481
+End capacity : 99.93
+---------------------------------------------
+Completed game 253/1000
+End temperature : 307.3306263131777
+End capacity : 99.91
+---------------------------------------------
+Completed game 254/1000
+End temperature : 307.00252740399293
+End capacity : 99.92
+---------------------------------------------
+Completed game 255/1000
+End temperature : 300.29737115994965
+End capacity : 99.72
+---------------------------------------------
+Completed game 256/1000
+End temperature : 300.25003362687517
+End capacity : 99.72
+---------------------------------------------
+Completed game 257/1000
+End temperature : 307.0021079882342
+End capacity : 99.91
+---------------------------------------------
+Completed game 258/1000
+End temperature : 307.0024170672916
+End capacity : 99.92
+---------------------------------------------
+Completed game 259/1000
+End temperature : 307.00611020446894
+End capacity : 99.93
+---------------------------------------------
+Completed game 260/1000
+End temperature : 307.0002071327608
+End capacity : 99.92
+---------------------------------------------
+Completed game 261/1000
+End temperature : 304.0144074762911
+End capacity : 99.77
+---------------------------------------------
+Completed game 262/1000
+End temperature : 307.4133009574499
+End capacity : 99.90
+---------------------------------------------
+Completed game 263/1000
+End temperature : 307.0958951238657
+End capacity : 99.91
+---------------------------------------------
+Completed game 264/1000
+End temperature : 307.00896327131875
+End capacity : 99.91
+---------------------------------------------
+Completed game 265/1000
+End temperature : 307.04399961499064
+End capacity : 99.94
+---------------------------------------------
+Completed game 266/1000
+End temperature : 307.00675611217406
+End capacity : 99.90
+---------------------------------------------
+Completed game 267/1000
+End temperature : 307.01565403516906
+End capacity : 99.89
+---------------------------------------------
+Completed game 268/1000
+End temperature : 307.00559941923484
+End capacity : 99.86
+---------------------------------------------
+Completed game 269/1000
+End temperature : 307.14197902918335
+End capacity : 99.91
+---------------------------------------------
+Completed game 270/1000
+End temperature : 307.00423540431933
+End capacity : 99.93
+---------------------------------------------
+Completed game 271/1000
+End temperature : 307.005789030357
+End capacity : 99.93
+---------------------------------------------
+Completed game 272/1000
+End temperature : 307.0055601242388
+End capacity : 99.93
+---------------------------------------------
+Completed game 273/1000
+End temperature : 300.7297483166653
+End capacity : 99.73
+---------------------------------------------
+Completed game 274/1000
+End temperature : 305.6661814868185
+End capacity : 99.79
+---------------------------------------------
+Completed game 275/1000
+End temperature : 307.0023539944025
+End capacity : 99.86
+---------------------------------------------
+Completed game 276/1000
+End temperature : 307.0124379816602
+End capacity : 99.88
+---------------------------------------------
+Completed game 277/1000
+End temperature : 307.09998530734674
+End capacity : 99.91
+---------------------------------------------
+Completed game 278/1000
+End temperature : 307.00958446871266
+End capacity : 99.87
+---------------------------------------------
+Completed game 279/1000
+End temperature : 303.2274856742432
+End capacity : 99.76
+---------------------------------------------
+Completed game 280/1000
+End temperature : 307.40177346192837
+End capacity : 99.85
+---------------------------------------------
+Completed game 281/1000
+End temperature : 302.356051440397
+End capacity : 99.75
+---------------------------------------------
+Completed game 282/1000
+End temperature : 304.17117185779205
+End capacity : 99.77
+---------------------------------------------
+Completed game 283/1000
+End temperature : 307.0187925005443
+End capacity : 99.87
+---------------------------------------------
+Completed game 284/1000
+End temperature : 302.5161739276079
+End capacity : 99.75
+---------------------------------------------
+Completed game 285/1000
+End temperature : 305.0544863394076
+End capacity : 99.78
+---------------------------------------------
+Completed game 286/1000
+End temperature : 302.40106645603413
+End capacity : 99.75
+---------------------------------------------
+Completed game 287/1000
+End temperature : 307.0198599510899
+End capacity : 99.88
+---------------------------------------------
+Completed game 288/1000
+End temperature : 307.0019694732169
+End capacity : 99.86
+---------------------------------------------
+Completed game 289/1000
+End temperature : 307.00487124330755
+End capacity : 99.90
+---------------------------------------------
+Completed game 290/1000
+End temperature : 300.71700034879194
+End capacity : 99.72
+---------------------------------------------
+Completed game 291/1000
+End temperature : 300.09081132237145
+End capacity : 99.72
+---------------------------------------------
+Completed game 292/1000
+End temperature : 303.12064794969746
+End capacity : 99.76
+---------------------------------------------
+Completed game 293/1000
+End temperature : 302.0543427158359
+End capacity : 99.75
+---------------------------------------------
+Completed game 294/1000
+End temperature : 304.5906575756357
+End capacity : 99.78
+---------------------------------------------
+Completed game 295/1000
+End temperature : 303.3434580499952
+End capacity : 99.76
+---------------------------------------------
+Completed game 296/1000
+End temperature : 307.0060798484156
+End capacity : 99.88
+---------------------------------------------
+Completed game 297/1000
+End temperature : 299.3661959264942
+End capacity : 99.71
+---------------------------------------------
+Completed game 298/1000
+End temperature : 307.0242172467901
+End capacity : 99.87
+---------------------------------------------
+Completed game 299/1000
+End temperature : 307.00009509613335
+End capacity : 99.92
+---------------------------------------------
+30.0% completed...
+Wed, 09 May 2018 10:01:37
+---------------------------------------------
+Completed game 300/1000
+End temperature : 303.84800288569585
+End capacity : 99.76
+---------------------------------------------
+Completed game 301/1000
+End temperature : 307.0008396840845
+End capacity : 99.90
+---------------------------------------------
+Completed game 302/1000
+End temperature : 307.0027807013132
+End capacity : 99.91
+---------------------------------------------
+Completed game 303/1000
+End temperature : 300.08237493336384
+End capacity : 99.72
+---------------------------------------------
+Completed game 304/1000
+End temperature : 299.91821331305687
+End capacity : 99.72
+---------------------------------------------
+Completed game 305/1000
+End temperature : 307.5899566709127
+End capacity : 99.89
+---------------------------------------------
+Completed game 306/1000
+End temperature : 307.2891184325516
+End capacity : 99.91
+---------------------------------------------
+Completed game 307/1000
+End temperature : 300.52020694528
+End capacity : 99.72
+---------------------------------------------
+Completed game 308/1000
+End temperature : 307.0045859953258
+End capacity : 99.88
+---------------------------------------------
+Completed game 309/1000
+End temperature : 300.53516755122513
+End capacity : 99.72
+---------------------------------------------
+Completed game 310/1000
+End temperature : 307.0142067595563
+End capacity : 99.88
+---------------------------------------------
+Completed game 311/1000
+End temperature : 300.85025772180427
+End capacity : 99.72
+---------------------------------------------
+Completed game 312/1000
+End temperature : 303.14813947814883
+End capacity : 99.76
+---------------------------------------------
+Completed game 313/1000
+End temperature : 307.2765002161389
+End capacity : 99.85
+---------------------------------------------
+Completed game 314/1000
+End temperature : 307.0069134042622
+End capacity : 99.88
+---------------------------------------------
+Completed game 315/1000
+End temperature : 307.00336357246107
+End capacity : 99.89
+---------------------------------------------
+Completed game 316/1000
+End temperature : 307.01536752488556
+End capacity : 99.93
+---------------------------------------------
+Completed game 317/1000
+End temperature : 307.3036393708815
+End capacity : 99.89
+---------------------------------------------
+Completed game 318/1000
+End temperature : 300.46007777050465
+End capacity : 99.72
+---------------------------------------------
+Completed game 319/1000
+End temperature : 307.0087640739072
+End capacity : 99.91
+---------------------------------------------
+Completed game 320/1000
+End temperature : 300.5858370607016
+End capacity : 99.72
+---------------------------------------------
+Completed game 321/1000
+End temperature : 302.02883318564153
+End capacity : 99.74
+---------------------------------------------
+Completed game 322/1000
+End temperature : 304.64069217142435
+End capacity : 99.77
+---------------------------------------------
+Completed game 323/1000
+End temperature : 307.0040594493187
+End capacity : 99.89
+---------------------------------------------
+Completed game 324/1000
+End temperature : 303.1321793922605
+End capacity : 99.76
+---------------------------------------------
+Completed game 325/1000
+End temperature : 302.53021040970907
+End capacity : 99.75
+---------------------------------------------
+Completed game 326/1000
+End temperature : 307.0133932286539
+End capacity : 99.84
+---------------------------------------------
+Completed game 327/1000
+End temperature : 307.13018421135774
+End capacity : 99.89
+---------------------------------------------
+Completed game 328/1000
+End temperature : 307.00122282310787
+End capacity : 99.91
+---------------------------------------------
+Completed game 329/1000
+End temperature : 303.6959791654965
+End capacity : 99.76
+---------------------------------------------
+Completed game 330/1000
+End temperature : 307.35332347153513
+End capacity : 99.91
+---------------------------------------------
+Completed game 331/1000
+End temperature : 299.8701861953408
+End capacity : 99.71
+---------------------------------------------
+Completed game 332/1000
+End temperature : 307.00624040095073
+End capacity : 99.90
+---------------------------------------------
+Completed game 333/1000
+End temperature : 307.00400503459474
+End capacity : 99.88
+---------------------------------------------
+Completed game 334/1000
+End temperature : 307.1494108587401
+End capacity : 99.91
+---------------------------------------------
+Completed game 335/1000
+End temperature : 307.0050238150357
+End capacity : 99.90
+---------------------------------------------
+Completed game 336/1000
+End temperature : 307.00022537061284
+End capacity : 99.92
+---------------------------------------------
+Completed game 337/1000
+End temperature : 300.08818019911837
+End capacity : 99.72
+---------------------------------------------
+Completed game 338/1000
+End temperature : 302.2200391417241
+End capacity : 99.75
+---------------------------------------------
+Completed game 339/1000
+End temperature : 307.01068099566123
+End capacity : 99.84
+---------------------------------------------
+Completed game 340/1000
+End temperature : 307.193274376964
+End capacity : 99.91
+---------------------------------------------
+Completed game 341/1000
+End temperature : 307.02538682939115
+End capacity : 99.81
+---------------------------------------------
+Completed game 342/1000
+End temperature : 307.1543492034972
+End capacity : 99.95
+---------------------------------------------
+Completed game 343/1000
+End temperature : 307.2713504438432
+End capacity : 99.94
+---------------------------------------------
+Completed game 344/1000
+End temperature : 307.0071082720483
+End capacity : 99.91
+---------------------------------------------
+Completed game 345/1000
+End temperature : 299.67689018546974
+End capacity : 99.71
+---------------------------------------------
+Completed game 346/1000
+End temperature : 307.01263001633475
+End capacity : 99.91
+---------------------------------------------
+Completed game 347/1000
+End temperature : 307.0238397662021
+End capacity : 99.91
+---------------------------------------------
+Completed game 348/1000
+End temperature : 307.00051380292354
+End capacity : 99.89
+---------------------------------------------
+Completed game 349/1000
+End temperature : 303.28006380017473
+End capacity : 99.76
+---------------------------------------------
+Completed game 350/1000
+End temperature : 307.2376723312159
+End capacity : 99.89
+---------------------------------------------
+Completed game 351/1000
+End temperature : 307.018028892014
+End capacity : 99.88
+---------------------------------------------
+Completed game 352/1000
+End temperature : 307.0014884145203
+End capacity : 99.91
+---------------------------------------------
+Completed game 353/1000
+End temperature : 299.91168431858455
+End capacity : 99.72
+---------------------------------------------
+Completed game 354/1000
+End temperature : 307.0120538048695
+End capacity : 99.88
+---------------------------------------------
+Completed game 355/1000
+End temperature : 302.8510843287732
+End capacity : 99.75
+---------------------------------------------
+Completed game 356/1000
+End temperature : 302.6002749327941
+End capacity : 99.75
+---------------------------------------------
+Completed game 357/1000
+End temperature : 304.06543040049024
+End capacity : 99.77
+---------------------------------------------
+Completed game 358/1000
+End temperature : 304.70170542218864
+End capacity : 99.77
+---------------------------------------------
+Completed game 359/1000
+End temperature : 302.3626122208934
+End capacity : 99.74
+---------------------------------------------
+Completed game 360/1000
+End temperature : 299.86232330582794
+End capacity : 99.72
+---------------------------------------------
+Completed game 361/1000
+End temperature : 307.16929238440173
+End capacity : 99.91
+---------------------------------------------
+Completed game 362/1000
+End temperature : 301.00930150382675
+End capacity : 99.73
+---------------------------------------------
+Completed game 363/1000
+End temperature : 307.06108680800264
+End capacity : 99.92
+---------------------------------------------
+Completed game 364/1000
+End temperature : 307.0030657475509
+End capacity : 99.91
+---------------------------------------------
+Completed game 365/1000
+End temperature : 307.0099173794646
+End capacity : 99.89
+---------------------------------------------
+Completed game 366/1000
+End temperature : 307.11239277644665
+End capacity : 99.94
+---------------------------------------------
+Completed game 367/1000
+End temperature : 307.0026528306816
+End capacity : 99.94
+---------------------------------------------
+Completed game 368/1000
+End temperature : 303.753159347498
+End capacity : 99.75
+---------------------------------------------
+Completed game 369/1000
+End temperature : 307.0740539989835
+End capacity : 99.96
+---------------------------------------------
+Completed game 370/1000
+End temperature : 307.17482877491426
+End capacity : 99.89
+---------------------------------------------
+Completed game 371/1000
+End temperature : 307.0022097529827
+End capacity : 99.89
+---------------------------------------------
+Completed game 372/1000
+End temperature : 307.13896096100115
+End capacity : 99.94
+---------------------------------------------
+Completed game 373/1000
+End temperature : 299.98515387798125
+End capacity : 99.71
+---------------------------------------------
+Completed game 374/1000
+End temperature : 300.5363490850711
+End capacity : 99.72
+---------------------------------------------
+Completed game 375/1000
+End temperature : 307.0078131875767
+End capacity : 99.93
+---------------------------------------------
+Completed game 376/1000
+End temperature : 307.0973258873939
+End capacity : 99.95
+---------------------------------------------
+Completed game 377/1000
+End temperature : 307.10293423741194
+End capacity : 99.96
+---------------------------------------------
+Completed game 378/1000
+End temperature : 307.0084143818742
+End capacity : 99.96
+---------------------------------------------
+Completed game 379/1000
+End temperature : 307.342440358489
+End capacity : 99.89
+---------------------------------------------
+Completed game 380/1000
+End temperature : 307.0373689904652
+End capacity : 99.89
+---------------------------------------------
+Completed game 381/1000
+End temperature : 307.0088613414812
+End capacity : 99.95
+---------------------------------------------
+Completed game 382/1000
+End temperature : 299.70346296489
+End capacity : 99.71
+---------------------------------------------
+Completed game 383/1000
+End temperature : 307.20869705510484
+End capacity : 99.82
+---------------------------------------------
+Completed game 384/1000
+End temperature : 307.2608852848808
+End capacity : 99.96
+---------------------------------------------
+Completed game 385/1000
+End temperature : 299.28545566829985
+End capacity : 99.70
+---------------------------------------------
+Completed game 386/1000
+End temperature : 307.00010997799177
+End capacity : 99.85
+---------------------------------------------
+Completed game 387/1000
+End temperature : 307.2312249034767
+End capacity : 99.95
+---------------------------------------------
+Completed game 388/1000
+End temperature : 307.0014137525665
+End capacity : 99.92
+---------------------------------------------
+Completed game 389/1000
+End temperature : 307.2192652616195
+End capacity : 99.91
+---------------------------------------------
+Completed game 390/1000
+End temperature : 307.0129420017818
+End capacity : 99.92
+---------------------------------------------
+Completed game 391/1000
+End temperature : 303.87758049370325
+End capacity : 99.76
+---------------------------------------------
+Completed game 392/1000
+End temperature : 300.94187988726424
+End capacity : 99.73
+---------------------------------------------
+Completed game 393/1000
+End temperature : 307.0066812824752
+End capacity : 99.91
+---------------------------------------------
+Completed game 394/1000
+End temperature : 307.0244568086238
+End capacity : 99.92
+---------------------------------------------
+Completed game 395/1000
+End temperature : 307.00057810559326
+End capacity : 99.89
+---------------------------------------------
+Completed game 396/1000
+End temperature : 307.0000578791439
+End capacity : 99.95
+---------------------------------------------
+Completed game 397/1000
+End temperature : 299.50386893309155
+End capacity : 99.71
+---------------------------------------------
+Completed game 398/1000
+End temperature : 300.19789663687
+End capacity : 99.72
+---------------------------------------------
+Completed game 399/1000
+End temperature : 307.00049446782015
+End capacity : 99.89
+---------------------------------------------
+40.0% completed...
+Wed, 09 May 2018 10:42:17
+---------------------------------------------
+Completed game 400/1000
+End temperature : 307.3343022992213
+End capacity : 99.91
+---------------------------------------------
+Completed game 401/1000
+End temperature : 307.24223022941385
+End capacity : 99.96
+---------------------------------------------
+Completed game 402/1000
+End temperature : 307.3124039061157
+End capacity : 99.97
+---------------------------------------------
+Completed game 403/1000
+End temperature : 307.0975797061645
+End capacity : 99.94
+---------------------------------------------
+Completed game 404/1000
+End temperature : 307.2535635315024
+End capacity : 99.96
+---------------------------------------------
+Completed game 405/1000
+End temperature : 301.91251714515397
+End capacity : 99.73
+---------------------------------------------
+Completed game 406/1000
+End temperature : 303.24671511616
+End capacity : 99.76
+---------------------------------------------
+Completed game 407/1000
+End temperature : 307.1779499781963
+End capacity : 99.89
+---------------------------------------------
+Completed game 408/1000
+End temperature : 307.1236998923556
+End capacity : 99.89
+---------------------------------------------
+Completed game 409/1000
+End temperature : 307.05959012446885
+End capacity : 99.93
+---------------------------------------------
+Completed game 410/1000
+End temperature : 307.32795843189535
+End capacity : 99.95
+---------------------------------------------
+Completed game 411/1000
+End temperature : 303.3628337811764
+End capacity : 99.76
+---------------------------------------------
+Completed game 412/1000
+End temperature : 300.2326274513461
+End capacity : 99.71
+---------------------------------------------
+Completed game 413/1000
+End temperature : 302.61747232829094
+End capacity : 99.75
+---------------------------------------------
+Completed game 414/1000
+End temperature : 307.0673475955821
+End capacity : 99.89
+---------------------------------------------
+Completed game 415/1000
+End temperature : 298.5387001152316
+End capacity : 99.69
+---------------------------------------------
+Completed game 416/1000
+End temperature : 299.3832921308452
+End capacity : 99.70
+---------------------------------------------
+Completed game 417/1000
+End temperature : 307.2359160153703
+End capacity : 99.89
+---------------------------------------------
+Completed game 418/1000
+End temperature : 307.0006471157924
+End capacity : 99.88
+---------------------------------------------
+Completed game 419/1000
+End temperature : 307.30682406419623
+End capacity : 99.89
+---------------------------------------------
+Completed game 420/1000
+End temperature : 307.00225753420744
+End capacity : 99.90
+---------------------------------------------
+Completed game 421/1000
+End temperature : 307.0028887278496
+End capacity : 99.93
+---------------------------------------------
+Completed game 422/1000
+End temperature : 299.26001940350307
+End capacity : 99.70
+---------------------------------------------
+Completed game 423/1000
+End temperature : 307.0052682871402
+End capacity : 99.88
+---------------------------------------------
+Completed game 424/1000
+End temperature : 307.0148727714661
+End capacity : 99.91
+---------------------------------------------
+Completed game 425/1000
+End temperature : 307.0015751805135
+End capacity : 99.95
+---------------------------------------------
+Completed game 426/1000
+End temperature : 303.5881275857547
+End capacity : 99.76
+---------------------------------------------
+Completed game 427/1000
+End temperature : 300.0572932545963
+End capacity : 99.71
+---------------------------------------------
+Completed game 428/1000
+End temperature : 305.8021867729573
+End capacity : 99.78
+---------------------------------------------
+Completed game 429/1000
+End temperature : 303.19338076421553
+End capacity : 99.76
+---------------------------------------------
+Completed game 430/1000
+End temperature : 307.00184050699187
+End capacity : 99.88
+---------------------------------------------
+Completed game 431/1000
+End temperature : 303.5114843998583
+End capacity : 99.76
+---------------------------------------------
+Completed game 432/1000
+End temperature : 302.10253931752294
+End capacity : 99.75
+---------------------------------------------
+Completed game 433/1000
+End temperature : 302.1439059509374
+End capacity : 99.75
+---------------------------------------------
+Completed game 434/1000
+End temperature : 307.0080321724068
+End capacity : 99.88
+---------------------------------------------
+Completed game 435/1000
+End temperature : 307.4126482728014
+End capacity : 99.91
+---------------------------------------------
+Completed game 436/1000
+End temperature : 307.13353338882524
+End capacity : 99.95
+---------------------------------------------
+Completed game 437/1000
+End temperature : 302.9298578585504
+End capacity : 99.75
+---------------------------------------------
+Completed game 438/1000
+End temperature : 307.0218398027997
+End capacity : 99.88
+---------------------------------------------
+Completed game 439/1000
+End temperature : 307.64773136233424
+End capacity : 99.84
+---------------------------------------------
+Completed game 440/1000
+End temperature : 307.178611483285
+End capacity : 99.95
+---------------------------------------------
+Completed game 441/1000
+End temperature : 307.4546008930103
+End capacity : 99.91
+---------------------------------------------
+Completed game 442/1000
+End temperature : 307.10242582033953
+End capacity : 99.94
+---------------------------------------------
+Completed game 443/1000
+End temperature : 307.14169954215214
+End capacity : 99.84
+---------------------------------------------
+Completed game 444/1000
+End temperature : 307.0100187870282
+End capacity : 99.93
+---------------------------------------------
+Completed game 445/1000
+End temperature : 307.2037171940529
+End capacity : 99.84
+---------------------------------------------
+Completed game 446/1000
+End temperature : 307.00861937866006
+End capacity : 99.88
+---------------------------------------------
+Completed game 447/1000
+End temperature : 307.0011041989133
+End capacity : 99.84
+---------------------------------------------
+Completed game 448/1000
+End temperature : 299.1379190288919
+End capacity : 99.70
+---------------------------------------------
+Completed game 449/1000
+End temperature : 307.0028235734724
+End capacity : 99.84
+---------------------------------------------
+Completed game 450/1000
+End temperature : 307.00016796067604
+End capacity : 99.90
+---------------------------------------------
+Completed game 451/1000
+End temperature : 307.2353019024826
+End capacity : 99.95
+---------------------------------------------
+Completed game 452/1000
+End temperature : 307.3983104503423
+End capacity : 99.89
+---------------------------------------------
+Completed game 453/1000
+End temperature : 299.99663950590565
+End capacity : 99.71
+---------------------------------------------
+Completed game 454/1000
+End temperature : 300.27673340264624
+End capacity : 99.71
+---------------------------------------------
+Completed game 455/1000
+End temperature : 307.0014131588344
+End capacity : 99.93
+---------------------------------------------
+Completed game 456/1000
+End temperature : 307.5343602479567
+End capacity : 99.96
+---------------------------------------------
+Completed game 457/1000
+End temperature : 307.7570989566248
+End capacity : 99.96
+---------------------------------------------
+Completed game 458/1000
+End temperature : 307.0059087464992
+End capacity : 99.84
+---------------------------------------------
+Completed game 459/1000
+End temperature : 299.3744781848587
+End capacity : 99.71
+---------------------------------------------
+Completed game 460/1000
+End temperature : 301.44372275402657
+End capacity : 99.72
+---------------------------------------------
+Completed game 461/1000
+End temperature : 307.3419744396573
+End capacity : 99.88
+---------------------------------------------
+Completed game 462/1000
+End temperature : 307.0018606759644
+End capacity : 99.84
+---------------------------------------------
+Completed game 463/1000
+End temperature : 307.0112615625024
+End capacity : 99.92
+---------------------------------------------
+Completed game 464/1000
+End temperature : 305.528300003422
+End capacity : 99.77
+---------------------------------------------
+Completed game 465/1000
+End temperature : 307.0111047131016
+End capacity : 99.93
+---------------------------------------------
+Completed game 466/1000
+End temperature : 307.5847675162343
+End capacity : 99.96
+---------------------------------------------
+Completed game 467/1000
+End temperature : 307.05073543779594
+End capacity : 99.91
+---------------------------------------------
+Completed game 468/1000
+End temperature : 307.16852055188735
+End capacity : 99.89
+---------------------------------------------
+Completed game 469/1000
+End temperature : 307.0063948911038
+End capacity : 99.92
+---------------------------------------------
+Completed game 470/1000
+End temperature : 307.26726122203814
+End capacity : 99.96
+---------------------------------------------
+Completed game 471/1000
+End temperature : 300.6955496196237
+End capacity : 99.72
+---------------------------------------------
+Completed game 472/1000
+End temperature : 307.2256991204341
+End capacity : 99.90
+---------------------------------------------
+Completed game 473/1000
+End temperature : 300.3554035322287
+End capacity : 99.71
+---------------------------------------------
+Completed game 474/1000
+End temperature : 307.00621901063596
+End capacity : 99.92
+---------------------------------------------
+Completed game 475/1000
+End temperature : 307.00374808595194
+End capacity : 99.92
+---------------------------------------------
+Completed game 476/1000
+End temperature : 307.8468693763717
+End capacity : 99.96
+---------------------------------------------
+Completed game 477/1000
+End temperature : 300.2384379336433
+End capacity : 99.71
+---------------------------------------------
+Completed game 478/1000
+End temperature : 307.0007300628312
+End capacity : 99.91
+---------------------------------------------
+Completed game 479/1000
+End temperature : 307.00893674814074
+End capacity : 99.90
+---------------------------------------------
+Completed game 480/1000
+End temperature : 307.00704915724185
+End capacity : 99.88
+---------------------------------------------
+Completed game 481/1000
+End temperature : 307.1070510955982
+End capacity : 99.95
+---------------------------------------------
+Completed game 482/1000
+End temperature : 307.05210444109827
+End capacity : 99.95
+---------------------------------------------
+Completed game 483/1000
+End temperature : 307.0017714642156
+End capacity : 99.92
+---------------------------------------------
+Completed game 484/1000
+End temperature : 300.13227447738075
+End capacity : 99.71
+---------------------------------------------
+Completed game 485/1000
+End temperature : 307.0144317739072
+End capacity : 99.88
+---------------------------------------------
+Completed game 486/1000
+End temperature : 300.2543974066919
+End capacity : 99.71
+---------------------------------------------
+Completed game 487/1000
+End temperature : 307.29133426267305
+End capacity : 99.97
+---------------------------------------------
+Completed game 488/1000
+End temperature : 307.6975589431987
+End capacity : 99.97
+---------------------------------------------
+Completed game 489/1000
+End temperature : 297.8756876944889
+End capacity : 99.67
+---------------------------------------------
+Completed game 490/1000
+End temperature : 307.00058772442844
+End capacity : 99.83
+---------------------------------------------
+Completed game 491/1000
+End temperature : 307.2036280554161
+End capacity : 99.91
+---------------------------------------------
+Completed game 492/1000
+End temperature : 307.6367599473923
+End capacity : 99.96
+---------------------------------------------
+Completed game 493/1000
+End temperature : 305.9657879062133
+End capacity : 99.78
+---------------------------------------------
+Completed game 494/1000
+End temperature : 307.5561865186416
+End capacity : 99.96
+---------------------------------------------
+Completed game 495/1000
+End temperature : 307.61354012548793
+End capacity : 99.96
+---------------------------------------------
+Completed game 496/1000
+End temperature : 307.662112005584
+End capacity : 99.96
+---------------------------------------------
+Completed game 497/1000
+End temperature : 307.2148303541928
+End capacity : 99.94
+---------------------------------------------
+Completed game 498/1000
+End temperature : 299.1275817952966
+End capacity : 99.70
+---------------------------------------------
+Completed game 499/1000
+End temperature : 307.0240475555546
+End capacity : 99.87
+---------------------------------------------
+50.0% completed...
+Wed, 09 May 2018 11:20:34
+---------------------------------------------
+Completed game 500/1000
+End temperature : 303.5241690969587
+End capacity : 99.76
+---------------------------------------------
+Completed game 501/1000
+End temperature : 307.5286826493081
+End capacity : 99.85
+---------------------------------------------
+Completed game 502/1000
+End temperature : 307.0020019670894
+End capacity : 99.91
+---------------------------------------------
+Completed game 503/1000
+End temperature : 302.81460000335
+End capacity : 99.75
+---------------------------------------------
+Completed game 504/1000
+End temperature : 307.01677891737125
+End capacity : 99.87
+---------------------------------------------
+Completed game 505/1000
+End temperature : 307.0080382496681
+End capacity : 99.92
+---------------------------------------------
+Completed game 506/1000
+End temperature : 299.12979244582976
+End capacity : 99.70
+---------------------------------------------
+Completed game 507/1000
+End temperature : 297.99754309429153
+End capacity : 99.68
+---------------------------------------------
+Completed game 508/1000
+End temperature : 307.03533150314337
+End capacity : 99.84
+---------------------------------------------
+Completed game 509/1000
+End temperature : 307.0089068250068
+End capacity : 99.90
+---------------------------------------------
+Completed game 510/1000
+End temperature : 301.65602451086113
+End capacity : 99.72
+---------------------------------------------
+Completed game 511/1000
+End temperature : 307.2480106374289
+End capacity : 99.80
+---------------------------------------------
+Completed game 512/1000
+End temperature : 307.6933975493668
+End capacity : 99.96
+---------------------------------------------
+Completed game 513/1000
+End temperature : 307.71252258138196
+End capacity : 99.96
+---------------------------------------------
+Completed game 514/1000
+End temperature : 300.85448131473373
+End capacity : 99.72
+---------------------------------------------
+Completed game 515/1000
+End temperature : 301.25427729239317
+End capacity : 99.71
+---------------------------------------------
+Completed game 516/1000
+End temperature : 307.181685624547
+End capacity : 99.90
+---------------------------------------------
+Completed game 517/1000
+End temperature : 307.044360837852
+End capacity : 99.97
+---------------------------------------------
+Completed game 518/1000
+End temperature : 303.37557995538333
+End capacity : 99.76
+---------------------------------------------
+Completed game 519/1000
+End temperature : 299.3833369697725
+End capacity : 99.69
+---------------------------------------------
+Completed game 520/1000
+End temperature : 307.1674423609388
+End capacity : 99.88
+---------------------------------------------
+Completed game 521/1000
+End temperature : 307.0001498742238
+End capacity : 99.91
+---------------------------------------------
+Completed game 522/1000
+End temperature : 307.01189938756784
+End capacity : 99.88
+---------------------------------------------
+Completed game 523/1000
+End temperature : 298.25299275470854
+End capacity : 99.68
+---------------------------------------------
+Completed game 524/1000
+End temperature : 307.10797982006284
+End capacity : 99.94
+---------------------------------------------
+Completed game 525/1000
+End temperature : 307.0002313432261
+End capacity : 99.92
+---------------------------------------------
+Completed game 526/1000
+End temperature : 307.3555191182379
+End capacity : 99.89
+---------------------------------------------
+Completed game 527/1000
+End temperature : 307.35079703477214
+End capacity : 99.95
+---------------------------------------------
+Completed game 528/1000
+End temperature : 307.0013432332529
+End capacity : 99.98
+---------------------------------------------
+Completed game 529/1000
+End temperature : 300.1252548927508
+End capacity : 99.70
+---------------------------------------------
+Completed game 530/1000
+End temperature : 299.17579636217545
+End capacity : 99.70
+---------------------------------------------
+Completed game 531/1000
+End temperature : 307.47061157531675
+End capacity : 99.90
+---------------------------------------------
+Completed game 532/1000
+End temperature : 307.0017582182911
+End capacity : 99.95
+---------------------------------------------
+Completed game 533/1000
+End temperature : 307.05411295700486
+End capacity : 99.92
+---------------------------------------------
+Completed game 534/1000
+End temperature : 307.0010149208285
+End capacity : 99.97
+---------------------------------------------
+Completed game 535/1000
+End temperature : 307.5324419495769
+End capacity : 99.89
+---------------------------------------------
+Completed game 536/1000
+End temperature : 300.1085496404516
+End capacity : 99.71
+---------------------------------------------
+Completed game 537/1000
+End temperature : 297.93718738167746
+End capacity : 99.67
+---------------------------------------------
+Completed game 538/1000
+End temperature : 307.0306882766624
+End capacity : 99.97
+---------------------------------------------
+Completed game 539/1000
+End temperature : 299.715803076
+End capacity : 99.71
+---------------------------------------------
+Completed game 540/1000
+End temperature : 307.71284859023143
+End capacity : 99.97
+---------------------------------------------
+Completed game 541/1000
+End temperature : 307.0065370038976
+End capacity : 99.99
+---------------------------------------------
+Completed game 542/1000
+End temperature : 307.000347919635
+End capacity : 99.98
+---------------------------------------------
+Completed game 543/1000
+End temperature : 307.00071360315235
+End capacity : 99.87
+---------------------------------------------
+Completed game 544/1000
+End temperature : 307.01673305306514
+End capacity : 99.88
+---------------------------------------------
+Completed game 545/1000
+End temperature : 307.01410358600606
+End capacity : 99.91
+---------------------------------------------
+Completed game 546/1000
+End temperature : 307.02756166813043
+End capacity : 99.94
+---------------------------------------------
+Completed game 547/1000
+End temperature : 297.26065373389247
+End capacity : 99.66
+---------------------------------------------
+Completed game 548/1000
+End temperature : 307.00979996438053
+End capacity : 99.88
+---------------------------------------------
+Completed game 549/1000
+End temperature : 299.68288123735994
+End capacity : 99.71
+---------------------------------------------
+Completed game 550/1000
+End temperature : 307.3886855135219
+End capacity : 99.97
+---------------------------------------------
+Completed game 551/1000
+End temperature : 307.78828946635406
+End capacity : 99.95
+---------------------------------------------
+Completed game 552/1000
+End temperature : 307.2851192353403
+End capacity : 99.97
+---------------------------------------------
+Completed game 553/1000
+End temperature : 307.52885129329184
+End capacity : 99.97
+---------------------------------------------
+Completed game 554/1000
+End temperature : 307.0054095975941
+End capacity : 99.85
+---------------------------------------------
+Completed game 555/1000
+End temperature : 301.7958945684409
+End capacity : 99.72
+---------------------------------------------
+Completed game 556/1000
+End temperature : 307.0087849621088
+End capacity : 99.83
+---------------------------------------------
+Completed game 557/1000
+End temperature : 307.14073341048095
+End capacity : 99.97
+---------------------------------------------
+Completed game 558/1000
+End temperature : 307.0064995030124
+End capacity : 99.99
+---------------------------------------------
+Completed game 559/1000
+End temperature : 307.0180687328027
+End capacity : 99.99
+---------------------------------------------
+Completed game 560/1000
+End temperature : 307.0288188605618
+End capacity : 99.99
+---------------------------------------------
+Completed game 561/1000
+End temperature : 307.0269402169663
+End capacity : 99.99
+---------------------------------------------
+Completed game 562/1000
+End temperature : 307.03752761673695
+End capacity : 99.99
+---------------------------------------------
+Completed game 563/1000
+End temperature : 307.01927613007234
+End capacity : 99.99
+---------------------------------------------
+Completed game 564/1000
+End temperature : 307.042476155901
+End capacity : 99.99
+---------------------------------------------
+Completed game 565/1000
+End temperature : 307.02233757038135
+End capacity : 99.99
+---------------------------------------------
+Completed game 566/1000
+End temperature : 307.000826879143
+End capacity : 99.99
+---------------------------------------------
+Completed game 567/1000
+End temperature : 307.0712305167436
+End capacity : 99.99
+---------------------------------------------
+Completed game 568/1000
+End temperature : 307.03483962618515
+End capacity : 99.99
+---------------------------------------------
+Completed game 569/1000
+End temperature : 307.14595772516503
+End capacity : 99.99
+---------------------------------------------
+Completed game 570/1000
+End temperature : 307.11695583636896
+End capacity : 99.99
+---------------------------------------------
+Completed game 571/1000
+End temperature : 307.07821173490936
+End capacity : 99.99
+---------------------------------------------
+Completed game 572/1000
+End temperature : 307.04843806275034
+End capacity : 99.99
+---------------------------------------------
+Completed game 573/1000
+End temperature : 307.06296808422036
+End capacity : 99.99
+---------------------------------------------
+Completed game 574/1000
+End temperature : 307.01617509039295
+End capacity : 99.99
+---------------------------------------------
+Completed game 575/1000
+End temperature : 307.03014725433064
+End capacity : 99.99
+---------------------------------------------
+Completed game 576/1000
+End temperature : 307.1095282411527
+End capacity : 99.99
+---------------------------------------------
+Completed game 577/1000
+End temperature : 307.06002320132416
+End capacity : 99.99
+---------------------------------------------
+Completed game 578/1000
+End temperature : 307.0635608364842
+End capacity : 99.99
+---------------------------------------------
+Completed game 579/1000
+End temperature : 307.2767369322626
+End capacity : 99.99
+---------------------------------------------
+Completed game 580/1000
+End temperature : 307.14537732756173
+End capacity : 99.99
+---------------------------------------------
+Completed game 581/1000
+End temperature : 307.15792207948607
+End capacity : 99.99
+---------------------------------------------
+Completed game 582/1000
+End temperature : 307.10645788458226
+End capacity : 99.99
+---------------------------------------------
+Completed game 583/1000
+End temperature : 307.06388123250673
+End capacity : 99.99
+---------------------------------------------
+Completed game 584/1000
+End temperature : 307.09453486219945
+End capacity : 99.99
+---------------------------------------------
+Completed game 585/1000
+End temperature : 307.134058980309
+End capacity : 99.99
+---------------------------------------------
+Completed game 586/1000
+End temperature : 307.1776480640629
+End capacity : 99.99
+---------------------------------------------
+Completed game 587/1000
+End temperature : 307.02083131944875
+End capacity : 99.99
+---------------------------------------------
+Completed game 588/1000
+End temperature : 307.1938538249918
+End capacity : 99.99
+---------------------------------------------
+Completed game 589/1000
+End temperature : 307.14220840411525
+End capacity : 99.99
+---------------------------------------------
+Completed game 590/1000
+End temperature : 307.1500292316868
+End capacity : 99.99
+---------------------------------------------
+Completed game 591/1000
+End temperature : 307.241176226679
+End capacity : 99.99
+---------------------------------------------
+Completed game 592/1000
+End temperature : 307.2598953357954
+End capacity : 99.99
+---------------------------------------------
+Completed game 593/1000
+End temperature : 307.0779167430865
+End capacity : 99.99
+---------------------------------------------
+Completed game 594/1000
+End temperature : 307.18766524827697
+End capacity : 99.99
+---------------------------------------------
+Completed game 595/1000
+End temperature : 307.21779726370954
+End capacity : 99.99
+---------------------------------------------
+Completed game 596/1000
+End temperature : 307.16510510304846
+End capacity : 99.99
+---------------------------------------------
+Completed game 597/1000
+End temperature : 307.30007099121667
+End capacity : 99.99
+---------------------------------------------
+Completed game 598/1000
+End temperature : 307.25296888205276
+End capacity : 99.99
+---------------------------------------------
+Completed game 599/1000
+End temperature : 307.23517016061277
+End capacity : 99.99
+---------------------------------------------
+60.0% completed...
+Wed, 09 May 2018 11:46:37
+---------------------------------------------
+Completed game 600/1000
+End temperature : 307.1305018051057
+End capacity : 99.99
+---------------------------------------------
+Completed game 601/1000
+End temperature : 307.27503150290124
+End capacity : 99.99
+---------------------------------------------
+Completed game 602/1000
+End temperature : 307.2774269159888
+End capacity : 99.99
+---------------------------------------------
+Completed game 603/1000
+End temperature : 307.2408857653903
+End capacity : 99.99
+---------------------------------------------
+Completed game 604/1000
+End temperature : 307.30845774274104
+End capacity : 99.99
+---------------------------------------------
+Completed game 605/1000
+End temperature : 307.1785239046242
+End capacity : 99.99
+---------------------------------------------
+Completed game 606/1000
+End temperature : 307.24933173634247
+End capacity : 99.99
+---------------------------------------------
+Completed game 607/1000
+End temperature : 307.27647859394057
+End capacity : 99.99
+---------------------------------------------
+Completed game 608/1000
+End temperature : 307.3187877103588
+End capacity : 99.99
+---------------------------------------------
+Completed game 609/1000
+End temperature : 307.36107758256725
+End capacity : 99.99
+---------------------------------------------
+Completed game 610/1000
+End temperature : 307.29992566351547
+End capacity : 99.99
+---------------------------------------------
+Completed game 611/1000
+End temperature : 307.38395718679504
+End capacity : 99.99
+---------------------------------------------
+Completed game 612/1000
+End temperature : 307.3249980210785
+End capacity : 99.99
+---------------------------------------------
+Completed game 613/1000
+End temperature : 307.17206184477254
+End capacity : 99.99
+---------------------------------------------
+Completed game 614/1000
+End temperature : 307.4239460298883
+End capacity : 99.99
+---------------------------------------------
+Completed game 615/1000
+End temperature : 307.33528282168925
+End capacity : 99.99
+---------------------------------------------
+Completed game 616/1000
+End temperature : 307.3148761739727
+End capacity : 99.99
+---------------------------------------------
+Completed game 617/1000
+End temperature : 307.33732588181044
+End capacity : 99.99
+---------------------------------------------
+Completed game 618/1000
+End temperature : 307.31836064844674
+End capacity : 99.99
+---------------------------------------------
+Completed game 619/1000
+End temperature : 307.26049011936
+End capacity : 99.99
+---------------------------------------------
+Completed game 620/1000
+End temperature : 307.2667255215711
+End capacity : 99.99
+---------------------------------------------
+Completed game 621/1000
+End temperature : 307.35625327520216
+End capacity : 99.99
+---------------------------------------------
+Completed game 622/1000
+End temperature : 307.33834881374986
+End capacity : 99.99
+---------------------------------------------
+Completed game 623/1000
+End temperature : 307.23834714821305
+End capacity : 99.99
+---------------------------------------------
+Completed game 624/1000
+End temperature : 307.38637173463326
+End capacity : 99.99
+---------------------------------------------
+Completed game 625/1000
+End temperature : 307.21235021734014
+End capacity : 99.99
+---------------------------------------------
+Completed game 626/1000
+End temperature : 307.4033062829333
+End capacity : 99.99
+---------------------------------------------
+Completed game 627/1000
+End temperature : 307.3737796299316
+End capacity : 99.99
+---------------------------------------------
+Completed game 628/1000
+End temperature : 307.35788970015415
+End capacity : 99.99
+---------------------------------------------
+Completed game 629/1000
+End temperature : 307.38463060110985
+End capacity : 99.99
+---------------------------------------------
+Completed game 630/1000
+End temperature : 307.3041970587714
+End capacity : 99.99
+---------------------------------------------
+Completed game 631/1000
+End temperature : 307.3996824708986
+End capacity : 99.99
+---------------------------------------------
+Completed game 632/1000
+End temperature : 307.4325878638194
+End capacity : 99.99
+---------------------------------------------
+Completed game 633/1000
+End temperature : 307.442015718868
+End capacity : 99.99
+---------------------------------------------
+Completed game 634/1000
+End temperature : 307.31511232220845
+End capacity : 99.99
+---------------------------------------------
+Completed game 635/1000
+End temperature : 307.27807102944
+End capacity : 99.99
+---------------------------------------------
+Completed game 636/1000
+End temperature : 307.3765798980366
+End capacity : 99.99
+---------------------------------------------
+Completed game 637/1000
+End temperature : 307.3899999329018
+End capacity : 99.99
+---------------------------------------------
+Completed game 638/1000
+End temperature : 307.4911144965635
+End capacity : 99.99
+---------------------------------------------
+Completed game 639/1000
+End temperature : 307.4329054804791
+End capacity : 99.99
+---------------------------------------------
+Completed game 640/1000
+End temperature : 307.417006345593
+End capacity : 99.99
+---------------------------------------------
+Completed game 641/1000
+End temperature : 307.37815024862084
+End capacity : 99.99
+---------------------------------------------
+Completed game 642/1000
+End temperature : 307.42458114576976
+End capacity : 99.99
+---------------------------------------------
+Completed game 643/1000
+End temperature : 307.39321068249444
+End capacity : 99.99
+---------------------------------------------
+Completed game 644/1000
+End temperature : 307.4267764862113
+End capacity : 99.99
+---------------------------------------------
+Completed game 645/1000
+End temperature : 307.33432438982487
+End capacity : 99.99
+---------------------------------------------
+Completed game 646/1000
+End temperature : 307.41611503978055
+End capacity : 99.99
+---------------------------------------------
+Completed game 647/1000
+End temperature : 307.33169211885263
+End capacity : 99.99
+---------------------------------------------
+Completed game 648/1000
+End temperature : 307.5334084412454
+End capacity : 99.99
+---------------------------------------------
+Completed game 649/1000
+End temperature : 307.4220583996593
+End capacity : 99.99
+---------------------------------------------
+Completed game 650/1000
+End temperature : 307.44501235851186
+End capacity : 99.99
+---------------------------------------------
+Completed game 651/1000
+End temperature : 307.3764073643072
+End capacity : 99.99
+---------------------------------------------
+Completed game 652/1000
+End temperature : 307.5112507112151
+End capacity : 99.99
+---------------------------------------------
+Completed game 653/1000
+End temperature : 307.4833300851254
+End capacity : 99.99
+---------------------------------------------
+Completed game 654/1000
+End temperature : 307.5093540438069
+End capacity : 99.99
+---------------------------------------------
+Completed game 655/1000
+End temperature : 307.4889289412639
+End capacity : 99.99
+---------------------------------------------
+Completed game 656/1000
+End temperature : 307.38872904711803
+End capacity : 99.99
+---------------------------------------------
+Completed game 657/1000
+End temperature : 307.3949519017881
+End capacity : 99.99
+---------------------------------------------
+Completed game 658/1000
+End temperature : 307.4832189107275
+End capacity : 99.99
+---------------------------------------------
+Completed game 659/1000
+End temperature : 307.55625411823854
+End capacity : 99.99
+---------------------------------------------
+Completed game 660/1000
+End temperature : 307.53317403786235
+End capacity : 99.99
+---------------------------------------------
+Completed game 661/1000
+End temperature : 307.5629799615101
+End capacity : 99.99
+---------------------------------------------
+Completed game 662/1000
+End temperature : 307.6109164777134
+End capacity : 99.99
+---------------------------------------------
+Completed game 663/1000
+End temperature : 307.4698416763745
+End capacity : 99.99
+---------------------------------------------
+Completed game 664/1000
+End temperature : 307.5535208622284
+End capacity : 99.99
+---------------------------------------------
+Completed game 665/1000
+End temperature : 307.4868342847856
+End capacity : 99.99
+---------------------------------------------
+Completed game 666/1000
+End temperature : 307.570505082119
+End capacity : 99.99
+---------------------------------------------
+Completed game 667/1000
+End temperature : 307.6090899485739
+End capacity : 99.99
+---------------------------------------------
+Completed game 668/1000
+End temperature : 307.49705965657216
+End capacity : 99.99
+---------------------------------------------
+Completed game 669/1000
+End temperature : 307.5488968880395
+End capacity : 99.99
+---------------------------------------------
+Completed game 670/1000
+End temperature : 307.4584564495474
+End capacity : 99.99
+---------------------------------------------
+Completed game 671/1000
+End temperature : 307.59583718447124
+End capacity : 99.99
+---------------------------------------------
+Completed game 672/1000
+End temperature : 307.53686369929505
+End capacity : 99.99
+---------------------------------------------
+Completed game 673/1000
+End temperature : 307.56679036828984
+End capacity : 99.99
+---------------------------------------------
+Completed game 674/1000
+End temperature : 307.5624626336458
+End capacity : 99.99
+---------------------------------------------
+Completed game 675/1000
+End temperature : 307.49682788083277
+End capacity : 99.99
+---------------------------------------------
+Completed game 676/1000
+End temperature : 307.4056740078375
+End capacity : 99.99
+---------------------------------------------
+Completed game 677/1000
+End temperature : 307.5241245213591
+End capacity : 99.99
+---------------------------------------------
+Completed game 678/1000
+End temperature : 307.58340548510506
+End capacity : 99.99
+---------------------------------------------
+Completed game 679/1000
+End temperature : 307.52339974188146
+End capacity : 99.99
+---------------------------------------------
+Completed game 680/1000
+End temperature : 307.5423611921165
+End capacity : 99.99
+---------------------------------------------
+Completed game 681/1000
+End temperature : 307.56521194614135
+End capacity : 99.99
+---------------------------------------------
+Completed game 682/1000
+End temperature : 307.60309613659444
+End capacity : 99.99
+---------------------------------------------
+Completed game 683/1000
+End temperature : 307.55944051612335
+End capacity : 99.99
+---------------------------------------------
+Completed game 684/1000
+End temperature : 307.5619832194114
+End capacity : 99.99
+---------------------------------------------
+Completed game 685/1000
+End temperature : 307.60377507799956
+End capacity : 99.99
+---------------------------------------------
+Completed game 686/1000
+End temperature : 307.63389422448313
+End capacity : 99.99
+---------------------------------------------
+Completed game 687/1000
+End temperature : 307.5271367730465
+End capacity : 99.99
+---------------------------------------------
+Completed game 688/1000
+End temperature : 307.5983110404527
+End capacity : 99.99
+---------------------------------------------
+Completed game 689/1000
+End temperature : 307.56185320601526
+End capacity : 99.99
+---------------------------------------------
+Completed game 690/1000
+End temperature : 307.6462081341858
+End capacity : 99.99
+---------------------------------------------
+Completed game 691/1000
+End temperature : 307.59919847932883
+End capacity : 99.99
+---------------------------------------------
+Completed game 692/1000
+End temperature : 307.6344739871202
+End capacity : 99.99
+---------------------------------------------
+Completed game 693/1000
+End temperature : 307.622284480658
+End capacity : 99.99
+---------------------------------------------
+Completed game 694/1000
+End temperature : 307.61795907099054
+End capacity : 99.99
+---------------------------------------------
+Completed game 695/1000
+End temperature : 307.65079577781614
+End capacity : 99.99
+---------------------------------------------
+Completed game 696/1000
+End temperature : 307.66011292540935
+End capacity : 99.99
+---------------------------------------------
+Completed game 697/1000
+End temperature : 307.5809963335129
+End capacity : 99.99
+---------------------------------------------
+Completed game 698/1000
+End temperature : 307.6765382751915
+End capacity : 99.99
+---------------------------------------------
+Completed game 699/1000
+End temperature : 307.59355310223174
+End capacity : 99.99
+---------------------------------------------
+70.0% completed...
+Wed, 09 May 2018 11:58:25
+---------------------------------------------
+Completed game 700/1000
+End temperature : 307.6075194180656
+End capacity : 99.99
+---------------------------------------------
+Completed game 701/1000
+End temperature : 307.5730066947434
+End capacity : 99.99
+---------------------------------------------
+Completed game 702/1000
+End temperature : 307.59042431558447
+End capacity : 99.99
+---------------------------------------------
+Completed game 703/1000
+End temperature : 307.6721827462238
+End capacity : 99.99
+---------------------------------------------
+Completed game 704/1000
+End temperature : 307.674534990737
+End capacity : 99.99
+---------------------------------------------
+Completed game 705/1000
+End temperature : 307.668072272743
+End capacity : 99.99
+---------------------------------------------
+Completed game 706/1000
+End temperature : 307.64402994634725
+End capacity : 99.99
+---------------------------------------------
+Completed game 707/1000
+End temperature : 307.655873854256
+End capacity : 99.99
+---------------------------------------------
+Completed game 708/1000
+End temperature : 307.6517572224342
+End capacity : 99.99
+---------------------------------------------
+Completed game 709/1000
+End temperature : 307.73605399818
+End capacity : 99.99
+---------------------------------------------
+Completed game 710/1000
+End temperature : 307.6729232948142
+End capacity : 99.99
+---------------------------------------------
+Completed game 711/1000
+End temperature : 307.63124816014096
+End capacity : 99.99
+---------------------------------------------
+Completed game 712/1000
+End temperature : 307.666853078817
+End capacity : 99.99
+---------------------------------------------
+Completed game 713/1000
+End temperature : 307.7146013928095
+End capacity : 99.99
+---------------------------------------------
+Completed game 714/1000
+End temperature : 307.71546839081697
+End capacity : 99.99
+---------------------------------------------
+Completed game 715/1000
+End temperature : 307.68240165456746
+End capacity : 99.99
+---------------------------------------------
+Completed game 716/1000
+End temperature : 307.69928931647087
+End capacity : 99.99
+---------------------------------------------
+Completed game 717/1000
+End temperature : 307.7072420156052
+End capacity : 99.99
+---------------------------------------------
+Completed game 718/1000
+End temperature : 307.7053735291798
+End capacity : 99.99
+---------------------------------------------
+Completed game 719/1000
+End temperature : 307.660968510335
+End capacity : 99.99
+---------------------------------------------
+Completed game 720/1000
+End temperature : 307.6887764488963
+End capacity : 99.99
+---------------------------------------------
+Completed game 721/1000
+End temperature : 307.68585061589283
+End capacity : 99.99
+---------------------------------------------
+Completed game 722/1000
+End temperature : 307.70062536202454
+End capacity : 99.99
+---------------------------------------------
+Completed game 723/1000
+End temperature : 307.67458519184237
+End capacity : 99.99
+---------------------------------------------
+Completed game 724/1000
+End temperature : 307.7138331552235
+End capacity : 99.99
+---------------------------------------------
+Completed game 725/1000
+End temperature : 307.66871703460873
+End capacity : 99.99
+---------------------------------------------
+Completed game 726/1000
+End temperature : 307.76517468525066
+End capacity : 99.99
+---------------------------------------------
+Completed game 727/1000
+End temperature : 307.7382970968397
+End capacity : 99.99
+---------------------------------------------
+Completed game 728/1000
+End temperature : 307.7060063878009
+End capacity : 99.99
+---------------------------------------------
+Completed game 729/1000
+End temperature : 307.6891290214601
+End capacity : 99.99
+---------------------------------------------
+Completed game 730/1000
+End temperature : 307.696728376698
+End capacity : 99.99
+---------------------------------------------
+Completed game 731/1000
+End temperature : 307.7426203048362
+End capacity : 99.99
+---------------------------------------------
+Completed game 732/1000
+End temperature : 307.73293620036384
+End capacity : 99.99
+---------------------------------------------
+Completed game 733/1000
+End temperature : 307.7047986878245
+End capacity : 99.99
+---------------------------------------------
+Completed game 734/1000
+End temperature : 307.75195600827766
+End capacity : 99.99
+---------------------------------------------
+Completed game 735/1000
+End temperature : 307.76793453484066
+End capacity : 99.99
+---------------------------------------------
+Completed game 736/1000
+End temperature : 307.7400339703885
+End capacity : 99.99
+---------------------------------------------
+Completed game 737/1000
+End temperature : 307.80318708755374
+End capacity : 99.99
+---------------------------------------------
+Completed game 738/1000
+End temperature : 307.78023895953646
+End capacity : 99.99
+---------------------------------------------
+Completed game 739/1000
+End temperature : 307.7660188858843
+End capacity : 99.99
+---------------------------------------------
+Completed game 740/1000
+End temperature : 307.7257900685402
+End capacity : 99.99
+---------------------------------------------
+Completed game 741/1000
+End temperature : 307.77645648274563
+End capacity : 99.99
+---------------------------------------------
+Completed game 742/1000
+End temperature : 307.76760442868346
+End capacity : 99.99
+---------------------------------------------
+Completed game 743/1000
+End temperature : 307.7361401037545
+End capacity : 99.99
+---------------------------------------------
+Completed game 744/1000
+End temperature : 307.72961167846904
+End capacity : 99.99
+---------------------------------------------
+Completed game 745/1000
+End temperature : 307.76700326699466
+End capacity : 99.99
+---------------------------------------------
+Completed game 746/1000
+End temperature : 307.76611301895457
+End capacity : 99.99
+---------------------------------------------
+Completed game 747/1000
+End temperature : 307.7609515856327
+End capacity : 99.99
+---------------------------------------------
+Completed game 748/1000
+End temperature : 307.7879960418946
+End capacity : 99.99
+---------------------------------------------
+Completed game 749/1000
+End temperature : 307.82544453824875
+End capacity : 99.99
+---------------------------------------------
+Completed game 750/1000
+End temperature : 307.81251452101156
+End capacity : 99.99
+---------------------------------------------
+Completed game 751/1000
+End temperature : 307.76389907254895
+End capacity : 99.99
+---------------------------------------------
+Completed game 752/1000
+End temperature : 307.84099242193906
+End capacity : 99.99
+---------------------------------------------
+Completed game 753/1000
+End temperature : 307.733505425509
+End capacity : 99.99
+---------------------------------------------
+Completed game 754/1000
+End temperature : 307.8645428731915
+End capacity : 99.99
+---------------------------------------------
+Completed game 755/1000
+End temperature : 307.8009280639299
+End capacity : 99.99
+---------------------------------------------
+Completed game 756/1000
+End temperature : 307.8099558017983
+End capacity : 99.99
+---------------------------------------------
+Completed game 757/1000
+End temperature : 307.8297891813784
+End capacity : 99.99
+---------------------------------------------
+Completed game 758/1000
+End temperature : 307.80868186937727
+End capacity : 99.99
+---------------------------------------------
+Completed game 759/1000
+End temperature : 307.88398716734935
+End capacity : 99.99
+---------------------------------------------
+Completed game 760/1000
+End temperature : 307.8459856027721
+End capacity : 99.99
+---------------------------------------------
+Completed game 761/1000
+End temperature : 307.8678662236125
+End capacity : 99.99
+---------------------------------------------
+Completed game 762/1000
+End temperature : 307.8349290437835
+End capacity : 99.99
+---------------------------------------------
+Completed game 763/1000
+End temperature : 307.8174285785781
+End capacity : 99.99
+---------------------------------------------
+Completed game 764/1000
+End temperature : 307.8095404904165
+End capacity : 99.99
+---------------------------------------------
+Completed game 765/1000
+End temperature : 307.8302401793312
+End capacity : 99.99
+---------------------------------------------
+Completed game 766/1000
+End temperature : 307.84351828318574
+End capacity : 99.99
+---------------------------------------------
+Completed game 767/1000
+End temperature : 307.86876963113366
+End capacity : 99.99
+---------------------------------------------
+Completed game 768/1000
+End temperature : 307.8506643507993
+End capacity : 99.99
+---------------------------------------------
+Completed game 769/1000
+End temperature : 307.86828165010576
+End capacity : 99.99
+---------------------------------------------
+Completed game 770/1000
+End temperature : 307.84958573947796
+End capacity : 99.99
+---------------------------------------------
+Completed game 771/1000
+End temperature : 307.8468402848028
+End capacity : 99.99
+---------------------------------------------
+Completed game 772/1000
+End temperature : 307.8801470893725
+End capacity : 99.99
+---------------------------------------------
+Completed game 773/1000
+End temperature : 307.8742651658241
+End capacity : 99.99
+---------------------------------------------
+Completed game 774/1000
+End temperature : 307.87053480332264
+End capacity : 99.99
+---------------------------------------------
+Completed game 775/1000
+End temperature : 307.8580980240423
+End capacity : 99.99
+---------------------------------------------
+Completed game 776/1000
+End temperature : 307.8558326740893
+End capacity : 99.99
+---------------------------------------------
+Completed game 777/1000
+End temperature : 307.8299325888141
+End capacity : 99.99
+---------------------------------------------
+Completed game 778/1000
+End temperature : 307.90098332198704
+End capacity : 99.99
+---------------------------------------------
+Completed game 779/1000
+End temperature : 307.9160766630387
+End capacity : 99.99
+---------------------------------------------
+Completed game 780/1000
+End temperature : 307.87132677872995
+End capacity : 99.99
+---------------------------------------------
+Completed game 781/1000
+End temperature : 307.8724585550608
+End capacity : 99.99
+---------------------------------------------
+Completed game 782/1000
+End temperature : 307.876651014574
+End capacity : 99.99
+---------------------------------------------
+Completed game 783/1000
+End temperature : 307.8391335892138
+End capacity : 99.99
+---------------------------------------------
+Completed game 784/1000
+End temperature : 307.87490307495653
+End capacity : 99.99
+---------------------------------------------
+Completed game 785/1000
+End temperature : 307.9345553273994
+End capacity : 99.99
+---------------------------------------------
+Completed game 786/1000
+End temperature : 307.8814873494467
+End capacity : 99.99
+---------------------------------------------
+Completed game 787/1000
+End temperature : 307.84257837283803
+End capacity : 99.99
+---------------------------------------------
+Completed game 788/1000
+End temperature : 307.8694170072992
+End capacity : 99.99
+---------------------------------------------
+Completed game 789/1000
+End temperature : 307.892482061662
+End capacity : 99.99
+---------------------------------------------
+Completed game 790/1000
+End temperature : 307.92886740597805
+End capacity : 99.99
+---------------------------------------------
+Completed game 791/1000
+End temperature : 307.89314188255133
+End capacity : 99.99
+---------------------------------------------
+Completed game 792/1000
+End temperature : 307.93639529649437
+End capacity : 99.99
+---------------------------------------------
+Completed game 793/1000
+End temperature : 307.8879557491563
+End capacity : 99.99
+---------------------------------------------
+Completed game 794/1000
+End temperature : 307.8914015067396
+End capacity : 99.99
+---------------------------------------------
+Completed game 795/1000
+End temperature : 307.8883849618422
+End capacity : 99.99
+---------------------------------------------
+Completed game 796/1000
+End temperature : 307.90586582227354
+End capacity : 99.99
+---------------------------------------------
+Completed game 797/1000
+End temperature : 307.94765917982016
+End capacity : 99.99
+---------------------------------------------
+Completed game 798/1000
+End temperature : 307.9081628987452
+End capacity : 99.99
+---------------------------------------------
+Completed game 799/1000
+End temperature : 307.9308248719993
+End capacity : 99.99
+---------------------------------------------
+80.0% completed...
+Wed, 09 May 2018 12:10:12
+---------------------------------------------
+Completed game 800/1000
+End temperature : 307.92987105292286
+End capacity : 99.99
+---------------------------------------------
+Completed game 801/1000
+End temperature : 307.9380153401353
+End capacity : 99.99
+---------------------------------------------
+Completed game 802/1000
+End temperature : 307.96045027520785
+End capacity : 99.99
+---------------------------------------------
+Completed game 803/1000
+End temperature : 307.89451943263083
+End capacity : 99.99
+---------------------------------------------
+Completed game 804/1000
+End temperature : 307.9276147812966
+End capacity : 99.99
+---------------------------------------------
+Completed game 805/1000
+End temperature : 307.91393092013124
+End capacity : 99.99
+---------------------------------------------
+Completed game 806/1000
+End temperature : 307.9299557213765
+End capacity : 99.99
+---------------------------------------------
+Completed game 807/1000
+End temperature : 307.92500484265355
+End capacity : 99.99
+---------------------------------------------
+Completed game 808/1000
+End temperature : 307.9358972668491
+End capacity : 99.99
+---------------------------------------------
+Completed game 809/1000
+End temperature : 307.931644477996
+End capacity : 99.99
+---------------------------------------------
+Completed game 810/1000
+End temperature : 307.95083067451003
+End capacity : 99.99
+---------------------------------------------
+Completed game 811/1000
+End temperature : 307.96408078729263
+End capacity : 99.99
+---------------------------------------------
+Completed game 812/1000
+End temperature : 307.93782496249895
+End capacity : 99.99
+---------------------------------------------
+Completed game 813/1000
+End temperature : 307.932569208764
+End capacity : 99.99
+---------------------------------------------
+Completed game 814/1000
+End temperature : 307.9284408558299
+End capacity : 99.99
+---------------------------------------------
+Completed game 815/1000
+End temperature : 307.96598805442994
+End capacity : 99.99
+---------------------------------------------
+Completed game 816/1000
+End temperature : 307.9235519818834
+End capacity : 99.99
+---------------------------------------------
+Completed game 817/1000
+End temperature : 307.9665256864404
+End capacity : 99.99
+---------------------------------------------
+Completed game 818/1000
+End temperature : 307.97494583479005
+End capacity : 99.99
+---------------------------------------------
+Completed game 819/1000
+End temperature : 307.9738918160084
+End capacity : 99.99
+---------------------------------------------
+Completed game 820/1000
+End temperature : 307.9720552545886
+End capacity : 99.99
+---------------------------------------------
+Completed game 821/1000
+End temperature : 307.943446063397
+End capacity : 99.99
+---------------------------------------------
+Completed game 822/1000
+End temperature : 307.9358995135787
+End capacity : 99.99
+---------------------------------------------
+Completed game 823/1000
+End temperature : 307.97801131596447
+End capacity : 99.99
+---------------------------------------------
+Completed game 824/1000
+End temperature : 307.94233339103863
+End capacity : 99.99
+---------------------------------------------
+Completed game 825/1000
+End temperature : 307.979728858699
+End capacity : 99.99
+---------------------------------------------
+Completed game 826/1000
+End temperature : 307.99847443788974
+End capacity : 99.99
+---------------------------------------------
+Completed game 827/1000
+End temperature : 307.95632975476724
+End capacity : 99.99
+---------------------------------------------
+Completed game 828/1000
+End temperature : 308.00930125806343
+End capacity : 99.99
+---------------------------------------------
+Completed game 829/1000
+End temperature : 307.9348095299831
+End capacity : 99.99
+---------------------------------------------
+Completed game 830/1000
+End temperature : 307.9629135958045
+End capacity : 99.99
+---------------------------------------------
+Completed game 831/1000
+End temperature : 307.94249994427395
+End capacity : 99.99
+---------------------------------------------
+Completed game 832/1000
+End temperature : 307.9914078531609
+End capacity : 99.99
+---------------------------------------------
+Completed game 833/1000
+End temperature : 308.0247557353536
+End capacity : 99.99
+---------------------------------------------
+Completed game 834/1000
+End temperature : 307.9537965471307
+End capacity : 99.99
+---------------------------------------------
+Completed game 835/1000
+End temperature : 307.94806628314893
+End capacity : 99.99
+---------------------------------------------
+Completed game 836/1000
+End temperature : 307.9795036274758
+End capacity : 99.99
+---------------------------------------------
+Completed game 837/1000
+End temperature : 307.9523587565126
+End capacity : 99.99
+---------------------------------------------
+Completed game 838/1000
+End temperature : 307.97378436376846
+End capacity : 99.99
+---------------------------------------------
+Completed game 839/1000
+End temperature : 307.9891400324429
+End capacity : 99.99
+---------------------------------------------
+Completed game 840/1000
+End temperature : 307.96021714153886
+End capacity : 99.99
+---------------------------------------------
+Completed game 841/1000
+End temperature : 308.01845098881455
+End capacity : 99.99
+---------------------------------------------
+Completed game 842/1000
+End temperature : 308.0006465242169
+End capacity : 99.99
+---------------------------------------------
+Completed game 843/1000
+End temperature : 308.030869643875
+End capacity : 99.99
+---------------------------------------------
+Completed game 844/1000
+End temperature : 308.0402306452024
+End capacity : 99.99
+---------------------------------------------
+Completed game 845/1000
+End temperature : 308.0033132155631
+End capacity : 99.99
+---------------------------------------------
+Completed game 846/1000
+End temperature : 307.9911458821948
+End capacity : 99.99
+---------------------------------------------
+Completed game 847/1000
+End temperature : 308.0208890144371
+End capacity : 99.99
+---------------------------------------------
+Completed game 848/1000
+End temperature : 308.0119151945743
+End capacity : 99.99
+---------------------------------------------
+Completed game 849/1000
+End temperature : 308.0219793310353
+End capacity : 99.99
+---------------------------------------------
+Completed game 850/1000
+End temperature : 308.00615171328633
+End capacity : 99.99
+---------------------------------------------
+Completed game 851/1000
+End temperature : 308.01786408118636
+End capacity : 99.99
+---------------------------------------------
+Completed game 852/1000
+End temperature : 308.01715526322664
+End capacity : 99.99
+---------------------------------------------
+Completed game 853/1000
+End temperature : 308.0263923076676
+End capacity : 99.99
+---------------------------------------------
+Completed game 854/1000
+End temperature : 308.0426288950907
+End capacity : 99.99
+---------------------------------------------
+Completed game 855/1000
+End temperature : 308.0462113313828
+End capacity : 99.99
+---------------------------------------------
+Completed game 856/1000
+End temperature : 308.042590197202
+End capacity : 99.99
+---------------------------------------------
+Completed game 857/1000
+End temperature : 308.0408555806346
+End capacity : 99.99
+---------------------------------------------
+Completed game 858/1000
+End temperature : 308.0689012124105
+End capacity : 99.99
+---------------------------------------------
+Completed game 859/1000
+End temperature : 308.050153698349
+End capacity : 99.99
+---------------------------------------------
+Completed game 860/1000
+End temperature : 308.023163413912
+End capacity : 99.99
+---------------------------------------------
+Completed game 861/1000
+End temperature : 308.0500536987212
+End capacity : 99.99
+---------------------------------------------
+Completed game 862/1000
+End temperature : 308.00591134806075
+End capacity : 99.99
+---------------------------------------------
+Completed game 863/1000
+End temperature : 308.04577803505737
+End capacity : 99.99
+---------------------------------------------
+Completed game 864/1000
+End temperature : 308.04043103080573
+End capacity : 99.99
+---------------------------------------------
+Completed game 865/1000
+End temperature : 308.03863089612565
+End capacity : 99.99
+---------------------------------------------
+Completed game 866/1000
+End temperature : 308.06535907715363
+End capacity : 99.99
+---------------------------------------------
+Completed game 867/1000
+End temperature : 308.04356735826667
+End capacity : 99.99
+---------------------------------------------
+Completed game 868/1000
+End temperature : 308.0435650000148
+End capacity : 99.99
+---------------------------------------------
+Completed game 869/1000
+End temperature : 308.0523028368606
+End capacity : 99.99
+---------------------------------------------
+Completed game 870/1000
+End temperature : 308.055350818691
+End capacity : 99.99
+---------------------------------------------
+Completed game 871/1000
+End temperature : 308.0786997604467
+End capacity : 99.99
+---------------------------------------------
+Completed game 872/1000
+End temperature : 308.0678171164052
+End capacity : 99.99
+---------------------------------------------
+Completed game 873/1000
+End temperature : 308.07829337410635
+End capacity : 99.99
+---------------------------------------------
+Completed game 874/1000
+End temperature : 308.07155583081607
+End capacity : 99.99
+---------------------------------------------
+Completed game 875/1000
+End temperature : 308.0899966133139
+End capacity : 99.99
+---------------------------------------------
+Completed game 876/1000
+End temperature : 308.0759131041513
+End capacity : 99.99
+---------------------------------------------
+Completed game 877/1000
+End temperature : 308.05034795325713
+End capacity : 99.99
+---------------------------------------------
+Completed game 878/1000
+End temperature : 308.0687029467602
+End capacity : 99.99
+---------------------------------------------
+Completed game 879/1000
+End temperature : 308.05371277469294
+End capacity : 99.99
+---------------------------------------------
+Completed game 880/1000
+End temperature : 308.10099545113513
+End capacity : 99.99
+---------------------------------------------
+Completed game 881/1000
+End temperature : 308.070385265817
+End capacity : 99.99
+---------------------------------------------
+Completed game 882/1000
+End temperature : 308.07217447167255
+End capacity : 99.99
+---------------------------------------------
+Completed game 883/1000
+End temperature : 308.0814410676459
+End capacity : 99.99
+---------------------------------------------
+Completed game 884/1000
+End temperature : 308.08178085865035
+End capacity : 99.99
+---------------------------------------------
+Completed game 885/1000
+End temperature : 308.06265034608947
+End capacity : 99.99
+---------------------------------------------
+Completed game 886/1000
+End temperature : 308.0650300390765
+End capacity : 99.99
+---------------------------------------------
+Completed game 887/1000
+End temperature : 308.08417218012136
+End capacity : 99.99
+---------------------------------------------
+Completed game 888/1000
+End temperature : 308.0771269292441
+End capacity : 99.99
+---------------------------------------------
+Completed game 889/1000
+End temperature : 308.0990406963599
+End capacity : 99.99
+---------------------------------------------
+Completed game 890/1000
+End temperature : 308.09745024865845
+End capacity : 99.99
+---------------------------------------------
+Completed game 891/1000
+End temperature : 308.0919479619965
+End capacity : 99.99
+---------------------------------------------
+Completed game 892/1000
+End temperature : 308.1063164913171
+End capacity : 99.99
+---------------------------------------------
+Completed game 893/1000
+End temperature : 308.09639367154296
+End capacity : 99.99
+---------------------------------------------
+Completed game 894/1000
+End temperature : 308.1136050232258
+End capacity : 99.99
+---------------------------------------------
+Completed game 895/1000
+End temperature : 308.0957788449762
+End capacity : 99.99
+---------------------------------------------
+Completed game 896/1000
+End temperature : 308.10879464940393
+End capacity : 99.99
+---------------------------------------------
+Completed game 897/1000
+End temperature : 308.1139567894966
+End capacity : 99.99
+---------------------------------------------
+Completed game 898/1000
+End temperature : 308.09891137258717
+End capacity : 99.99
+---------------------------------------------
+Completed game 899/1000
+End temperature : 308.1209231922593
+End capacity : 99.99
+---------------------------------------------
+90.0% completed...
+Wed, 09 May 2018 12:21:58
+---------------------------------------------
+Completed game 900/1000
+End temperature : 308.13066363362043
+End capacity : 99.99
+---------------------------------------------
+Completed game 901/1000
+End temperature : 308.11697101370356
+End capacity : 99.99
+---------------------------------------------
+Completed game 902/1000
+End temperature : 308.13436590677946
+End capacity : 99.99
+---------------------------------------------
+Completed game 903/1000
+End temperature : 308.12076170561124
+End capacity : 99.99
+---------------------------------------------
+Completed game 904/1000
+End temperature : 308.12150890106994
+End capacity : 99.99
+---------------------------------------------
+Completed game 905/1000
+End temperature : 308.1068161806773
+End capacity : 99.99
+---------------------------------------------
+Completed game 906/1000
+End temperature : 308.1137127880341
+End capacity : 99.99
+---------------------------------------------
+Completed game 907/1000
+End temperature : 308.1039905801465
+End capacity : 99.99
+---------------------------------------------
+Completed game 908/1000
+End temperature : 308.11083075417224
+End capacity : 99.99
+---------------------------------------------
+Completed game 909/1000
+End temperature : 308.1186682917698
+End capacity : 99.99
+---------------------------------------------
+Completed game 910/1000
+End temperature : 308.1041337503959
+End capacity : 99.99
+---------------------------------------------
+Completed game 911/1000
+End temperature : 308.11589489804885
+End capacity : 99.99
+---------------------------------------------
+Completed game 912/1000
+End temperature : 308.11738805153504
+End capacity : 99.99
+---------------------------------------------
+Completed game 913/1000
+End temperature : 308.1065276824231
+End capacity : 99.99
+---------------------------------------------
+Completed game 914/1000
+End temperature : 308.11986538157146
+End capacity : 99.99
+---------------------------------------------
+Completed game 915/1000
+End temperature : 308.099855512093
+End capacity : 99.99
+---------------------------------------------
+Completed game 916/1000
+End temperature : 308.11474363979215
+End capacity : 99.99
+---------------------------------------------
+Completed game 917/1000
+End temperature : 308.1301719181215
+End capacity : 99.99
+---------------------------------------------
+Completed game 918/1000
+End temperature : 308.10967732831887
+End capacity : 99.99
+---------------------------------------------
+Completed game 919/1000
+End temperature : 308.0975153861817
+End capacity : 99.99
+---------------------------------------------
+Completed game 920/1000
+End temperature : 308.1058010645784
+End capacity : 99.99
+---------------------------------------------
+Completed game 921/1000
+End temperature : 308.108094094605
+End capacity : 99.99
+---------------------------------------------
+Completed game 922/1000
+End temperature : 308.10487143139204
+End capacity : 99.99
+---------------------------------------------
+Completed game 923/1000
+End temperature : 308.1092264150945
+End capacity : 99.99
+---------------------------------------------
+Completed game 924/1000
+End temperature : 308.11914238265393
+End capacity : 99.99
+---------------------------------------------
+Completed game 925/1000
+End temperature : 308.0852106004273
+End capacity : 99.99
+---------------------------------------------
+Completed game 926/1000
+End temperature : 308.1220278207684
+End capacity : 99.99
+---------------------------------------------
+Completed game 927/1000
+End temperature : 308.11339965190973
+End capacity : 99.99
+---------------------------------------------
+Completed game 928/1000
+End temperature : 308.12139547198746
+End capacity : 99.99
+---------------------------------------------
+Completed game 929/1000
+End temperature : 308.1031982933565
+End capacity : 99.99
+---------------------------------------------
+Completed game 930/1000
+End temperature : 308.12918739647154
+End capacity : 99.99
+---------------------------------------------
+Completed game 931/1000
+End temperature : 308.12344473134266
+End capacity : 99.99
+---------------------------------------------
+Completed game 932/1000
+End temperature : 308.11902975796477
+End capacity : 99.99
+---------------------------------------------
+Completed game 933/1000
+End temperature : 308.1259928694874
+End capacity : 99.99
+---------------------------------------------
+Completed game 934/1000
+End temperature : 308.11001618167865
+End capacity : 99.99
+---------------------------------------------
+Completed game 935/1000
+End temperature : 308.10960194642234
+End capacity : 99.99
+---------------------------------------------
+Completed game 936/1000
+End temperature : 308.13199896670375
+End capacity : 99.99
+---------------------------------------------
+Completed game 937/1000
+End temperature : 308.1268497830011
+End capacity : 99.99
+---------------------------------------------
+Completed game 938/1000
+End temperature : 308.12409651109635
+End capacity : 99.99
+---------------------------------------------
+Completed game 939/1000
+End temperature : 308.11310049152826
+End capacity : 99.99
+---------------------------------------------
+Completed game 940/1000
+End temperature : 308.08737982064764
+End capacity : 99.99
+---------------------------------------------
+Completed game 941/1000
+End temperature : 308.10677741669696
+End capacity : 99.99
+---------------------------------------------
+Completed game 942/1000
+End temperature : 308.10885608660845
+End capacity : 99.99
+---------------------------------------------
+Completed game 943/1000
+End temperature : 308.10291690303893
+End capacity : 99.99
+---------------------------------------------
+Completed game 944/1000
+End temperature : 308.1254183997068
+End capacity : 99.99
+---------------------------------------------
+Completed game 945/1000
+End temperature : 308.1058675770262
+End capacity : 99.99
+---------------------------------------------
+Completed game 946/1000
+End temperature : 308.1077809846892
+End capacity : 99.99
+---------------------------------------------
+Completed game 947/1000
+End temperature : 308.1215870833456
+End capacity : 99.99
+---------------------------------------------
+Completed game 948/1000
+End temperature : 308.1272503451744
+End capacity : 99.99
+---------------------------------------------
+Completed game 949/1000
+End temperature : 308.1154411982624
+End capacity : 99.99
+---------------------------------------------
+Completed game 950/1000
+End temperature : 308.1169446126581
+End capacity : 99.99
+---------------------------------------------
+Completed game 951/1000
+End temperature : 308.13419441255843
+End capacity : 99.99
+---------------------------------------------
+Completed game 952/1000
+End temperature : 308.1256325520744
+End capacity : 99.99
+---------------------------------------------
+Completed game 953/1000
+End temperature : 308.1109444963731
+End capacity : 99.99
+---------------------------------------------
+Completed game 954/1000
+End temperature : 308.09299991595543
+End capacity : 99.99
+---------------------------------------------
+Completed game 955/1000
+End temperature : 308.0897828609416
+End capacity : 99.99
+---------------------------------------------
+Completed game 956/1000
+End temperature : 308.1096782062906
+End capacity : 99.99
+---------------------------------------------
+Completed game 957/1000
+End temperature : 308.117731703989
+End capacity : 99.99
+---------------------------------------------
+Completed game 958/1000
+End temperature : 308.12025367930494
+End capacity : 99.99
+---------------------------------------------
+Completed game 959/1000
+End temperature : 308.122028584125
+End capacity : 99.99
+---------------------------------------------
+Completed game 960/1000
+End temperature : 308.11105671077775
+End capacity : 99.99
+---------------------------------------------
+Completed game 961/1000
+End temperature : 308.1053996446609
+End capacity : 99.99
+---------------------------------------------
+Completed game 962/1000
+End temperature : 308.140034433776
+End capacity : 99.99
+---------------------------------------------
+Completed game 963/1000
+End temperature : 308.1258088852232
+End capacity : 99.99
+---------------------------------------------
+Completed game 964/1000
+End temperature : 308.11624715692284
+End capacity : 99.99
+---------------------------------------------
+Completed game 965/1000
+End temperature : 308.11001211379653
+End capacity : 99.99
+---------------------------------------------
+Completed game 966/1000
+End temperature : 308.1023721289369
+End capacity : 99.99
+---------------------------------------------
+Completed game 967/1000
+End temperature : 308.12188339094075
+End capacity : 99.99
+---------------------------------------------
+Completed game 968/1000
+End temperature : 308.1358724605815
+End capacity : 99.99
+---------------------------------------------
+Completed game 969/1000
+End temperature : 308.1168176412399
+End capacity : 99.99
+---------------------------------------------
+Completed game 970/1000
+End temperature : 308.14053549591955
+End capacity : 99.99
+---------------------------------------------
+Completed game 971/1000
+End temperature : 308.12159214142673
+End capacity : 99.99
+---------------------------------------------
+Completed game 972/1000
+End temperature : 308.1210210571421
+End capacity : 99.99
+---------------------------------------------
+Completed game 973/1000
+End temperature : 308.1221771211781
+End capacity : 99.99
+---------------------------------------------
+Completed game 974/1000
+End temperature : 308.09838508958
+End capacity : 99.99
+---------------------------------------------
+Completed game 975/1000
+End temperature : 308.1191856497605
+End capacity : 99.99
+---------------------------------------------
+Completed game 976/1000
+End temperature : 308.12167832809837
+End capacity : 99.99
+---------------------------------------------
+Completed game 977/1000
+End temperature : 308.12899638416883
+End capacity : 99.99
+---------------------------------------------
+Completed game 978/1000
+End temperature : 308.1320009040962
+End capacity : 99.99
+---------------------------------------------
+Completed game 979/1000
+End temperature : 308.1305034742447
+End capacity : 99.99
+---------------------------------------------
+Completed game 980/1000
+End temperature : 308.12777639223793
+End capacity : 99.99
+---------------------------------------------
+Completed game 981/1000
+End temperature : 308.0901535470262
+End capacity : 99.99
+---------------------------------------------
+Completed game 982/1000
+End temperature : 308.1275962520382
+End capacity : 99.99
+---------------------------------------------
+Completed game 983/1000
+End temperature : 308.1199086782813
+End capacity : 99.99
+---------------------------------------------
+Completed game 984/1000
+End temperature : 308.09648716002175
+End capacity : 99.99
+---------------------------------------------
+Completed game 985/1000
+End temperature : 308.1058955830537
+End capacity : 99.99
+---------------------------------------------
+Completed game 986/1000
+End temperature : 308.11578128837897
+End capacity : 99.99
+---------------------------------------------
+Completed game 987/1000
+End temperature : 308.1256606692424
+End capacity : 99.99
+---------------------------------------------
+Completed game 988/1000
+End temperature : 308.1093298052796
+End capacity : 99.99
+---------------------------------------------
+Completed game 989/1000
+End temperature : 308.1105261203557
+End capacity : 99.99
+---------------------------------------------
+Completed game 990/1000
+End temperature : 308.1253205087886
+End capacity : 99.99
+---------------------------------------------
+Completed game 991/1000
+End temperature : 308.1257397469518
+End capacity : 99.99
+---------------------------------------------
+Completed game 992/1000
+End temperature : 308.1368422190105
+End capacity : 99.99
+---------------------------------------------
+Completed game 993/1000
+End temperature : 308.0795621738283
+End capacity : 99.99
+---------------------------------------------
+Completed game 994/1000
+End temperature : 308.1145041674498
+End capacity : 99.99
+---------------------------------------------
+Completed game 995/1000
+End temperature : 308.1235887000242
+End capacity : 99.99
+---------------------------------------------
+Completed game 996/1000
+End temperature : 308.116645772996
+End capacity : 99.99
+---------------------------------------------
+Completed game 997/1000
+End temperature : 308.1282317219213
+End capacity : 99.99
+---------------------------------------------
+Completed game 998/1000
+End temperature : 308.10038146058776
+End capacity : 99.99
+---------------------------------------------
+Completed game 999/1000
+End temperature : 308.1109622302143
+End capacity : 99.99
+---------------------------------------------
+100.0% completed...
+Wed, 09 May 2018 12:33:42
+---------------------------------------------
+Completed game 1000/1000
+End temperature : 308.12094363075084
+End capacity : 99.99
+---------------------------------------------
+Wed, 09 May 2018 12:33:42
+Model saved to disk...
+(tensorflow) Matt@138-38-183-87:~/google_drive/documents/uni/year_3/EE30147_40148_GDBP_MEng/individual/scripts/ml_attempt_8$ 

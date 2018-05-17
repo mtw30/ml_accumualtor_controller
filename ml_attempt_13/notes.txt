@@ -1,0 +1,1 @@
+Ran with mse, but for 500 to see if there was any difference. Started adding the final qVal to the output stream

@@ -1,0 +1,14 @@
+9th attempt, biggest set of changes yet!
+
+FOund that the lower reward was going down to like -180
+Not because of dt
+Something from the drain
+But what was casung the drain to be so large occationally?
+Putting down this to floating point calc error as couldnt see any problem with any of the variables
+
+Capped it at -6, as in conjustion with the other -2 this puts it roughly on par with the +8 maximum reward
+
+Normalised all normal (non-termenal) responses between -1 and 1
+
+Now prints the total reward per game
+Now prints the total training loss per game

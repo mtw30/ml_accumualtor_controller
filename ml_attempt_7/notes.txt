@@ -1,0 +1,1 @@
+7th attempt, not using the output buffer but triling vastly lowering the gamma value
